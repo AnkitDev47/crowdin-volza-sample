@@ -1,0 +1,8 @@
+body { background: #f4f6f9; }
+.sample-header { display: flex; align-items: center; gap: 24px; padding: 10px 24px; background: #fff; box-shadow: 0 1px 4px rgba(0, 0, 0, .08); position: sticky; top: 0; z-index: 1000; }
+.sample-header nav { display: flex; gap: 16px; flex: 1; }
+.sample-header nav a { color: #333; font-weight: 500; text-decoration: none; padding: 6px 2px; border-bottom: 2px solid transparent; }
+.sample-header nav a.active { color: #154784; border-bottom-color: #154784; }
+.sample-main { padding: 16px 24px; }
+.language-selector { display: inline-flex; align-items: center; gap: 6px; margin: 0; font-weight: 400; color: #154784; }
+.language-selector select { border: 1px solid #154784; border-radius: 4px; padding: 4px 8px; color: #154784; background: #fff; cursor: pointer; }

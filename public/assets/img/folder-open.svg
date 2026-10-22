@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85">
+  <!-- Folder back body -->
+  <rect x="3" y="28" width="94" height="54" rx="6" fill="#8892D4"/>
+  <!-- Tab on top-left -->
+  <path d="M3 28 L3 20 Q3 15 8 15 L35 15 Q41 15 44 20 L50 28 Z" fill="#7A82C8"/>
+  <!-- Open front flap tilted -->
+  <path d="M3 28 L97 18 L97 28 L3 38 Z" fill="#A0AADF"/>
+  <!-- Inner shadow line -->
+  <line x1="3" y1="38" x2="97" y2="28" stroke="#6B75BB" stroke-width="1" opacity="0.4"/>
+</svg>

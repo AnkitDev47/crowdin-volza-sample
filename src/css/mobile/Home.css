@@ -1,0 +1,504 @@
+/* /home and /workspace/search (SearchBoxPanel tabs: Welcome, Search, ...) on phones and tablets (< 992px). Desktop is untouched. */
+@media (max-width: 991px) {
+	.layout-main article.pad-2em {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	/* Home tabs (Welcome / Search / Trending ...): 44px tall */
+	.layout-main article.pad-2em > .rc-tabs > .rc-tabs-bar .rc-tabs-tab {
+		display: inline-flex !important;
+		align-items: center;
+		min-height: 44px;
+	}
+
+	/* Search: type select on its own row, then input + search button */
+	.layout-main .chip-body .universalsearch-parent-container,
+	.layout-main .chip-body .welcome-tab-form {
+		width: 100% !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.layout-main .chip-body .welcome-tab-form {
+		flex-wrap: wrap;
+	}
+
+	.layout-main .chip-body .universalsearch-inputgroup {
+		display: flex !important;
+		flex: 1 1 100%;
+		flex-wrap: wrap;
+		gap: 8px;
+		width: 100% !important;
+		max-width: 100%;
+		margin: 0 !important;
+		box-shadow: none !important;
+	}
+
+	.layout-main .chip-body .universalsearch-inputgroup > select {
+		flex: 1 1 100%;
+		width: 100% !important;
+		height: 44px !important;
+		font-size: 16px !important;
+		border-radius: 8px !important;
+	}
+
+	.layout-main .chip-body .welcome-tab-input-group,
+	.layout-main .chip-body .universalsearch-inputgroup > .input-group {
+		display: flex !important;
+		flex: 1 1 100%;
+		align-items: stretch;
+		width: 100% !important;
+		max-width: 100% !important;
+		min-width: 0;
+	}
+
+	.layout-main .chip-body .welcome-tab-input-group > :first-child,
+	.layout-main .chip-body .universalsearch-inputgroup > .input-group > :first-child {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.layout-main .chip-body .react-tags__search-input,
+	.layout-main .chip-body .customTagsInput {
+		width: 100% !important;
+		min-height: 44px;
+		font-size: 16px !important; /* no iOS focus zoom */
+	}
+
+	.layout-main .chip-body .input-group-btn {
+		display: flex;
+		width: auto;
+	}
+
+	.layout-main .chip-body .searchButton {
+		width: 48px !important;
+		min-height: 44px;
+		height: 100% !important;
+	}
+
+	/* Data Updated / Recent Searches / Example links */
+	.layout-main .chip-body .update-date-col,
+	.layout-main .chip-body .update-date-col *,
+	.layout-main .chip-body .recent-search-text2,
+	.layout-main .chip-body .recent-search-text2 *,
+	.layout-main .chip-body .subheader-text strong {
+		font-size: 14px !important;
+	}
+
+	.layout-main .chip-body .welcomeTab-date {
+		margin-left: 0 !important;
+		white-space: normal;
+	}
+
+	.layout-main .chip-body .subheader-text {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0 4px;
+		text-align: left;
+	}
+
+	.layout-main .chip-body .subheader-text a.suggestion-link,
+	.layout-main .chip-body .recent-search-text2 a,
+	.layout-main .chip-body .recent a {
+		display: inline-flex !important;
+		align-items: center;
+		min-height: 44px;
+		width: auto !important;
+	}
+
+	/* Recent searches (home search box): label left-aligned above the chips. The label had a desktop -8em margin and was
+	   centred; the white (invisible) "Example:" label took the start of the first row; the 44px-tall separators read
+	   as bars. Chips are now rounded, wrap left-to-right with even gaps. */
+	.layout-main .chip-body .form-simple-search .recent-search-text-margin {
+		justify-content: flex-start !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.layout-main .chip-body .form-simple-search .recent-search-text2 {
+		flex: 1 1 100%;
+		margin-left: 0 !important;
+		padding-left: 0 !important;
+		text-align: left;
+	}
+
+	.layout-main .chip-body .form-simple-search .recent-search-text-margin > .recent:not(:has(> span:not(:empty))) {
+		display: none;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text {
+		gap: 0 6px;
+		margin-top: 8px !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		justify-content: flex-start;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text > strong[style*="white"],
+	.layout-main .chip-body .form-simple-search .subheader-text > strong:first-child:is([class=""], :not([class])) {
+		display: none;
+	}
+
+	/* Recent-search chips: a compact 32px pill (13px text) drawn inside a 44px-tall transparent tap area,
+	   with press feedback */
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link {
+		position: relative;
+		isolation: isolate;
+		padding: 0 12px !important;
+		border: 0 !important;
+		background: none !important;
+		color: #154784 !important;
+		word-spacing: normal !important;
+		font-size: 13px !important;
+		line-height: 1.2;
+		text-decoration: none !important;
+		-webkit-tap-highlight-color: transparent;
+		transition: transform 0.12s ease, color 0.12s ease;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link::before {
+		content: "";
+		position: absolute;
+		inset: 6px 0;
+		z-index: -1;
+		border: 1px solid #c9d6ea;
+		border-radius: 16px;
+		background: #f3f6fb;
+		transition: background-color 0.12s ease, border-color 0.12s ease;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link:active {
+		transform: scale(0.95);
+		color: #fff !important;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link:active::before {
+		border-color: #154784;
+		background: #154784;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link:focus-visible {
+		outline: none;
+	}
+
+	.layout-main .chip-body .form-simple-search .subheader-text a.suggestion-link:focus-visible::before {
+		box-shadow: 0 0 0 2px #fff, 0 0 0 4px #154784;
+	}
+
+	/* Card actions (How to Video / FAQ's / Remote Support / Schedule a Walkthrough): a 2-column grid of equal cells,
+	   icon centred above its label, so every card lines up the same (they wrapped at content width before) */
+	.layout-main .chip-body .brdr-box .flex-end-welcome {
+		display: grid !important;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		align-items: start !important; /* the row's .align-items-center would centre cells of unequal height */
+		gap: 12px 8px;
+		margin: 8px 0 0 !important;
+		width: 100%;
+	}
+
+	/* Actions the app hides on a card (.hide-last-remote, e.g. on "Support Tickets & Live Chat") kept their space and
+	   left an empty 64px row; drop their grid cells */
+	.layout-main .chip-body .brdr-box .flex-end-welcome > div:has(> .hide-last-remote) {
+		display: none !important;
+	}
+
+	/* Bootstrap 3's .row clearfix pseudo-elements would take grid cells */
+	.layout-main .chip-body .brdr-box .flex-end-welcome::before,
+	.layout-main .chip-body .brdr-box .flex-end-welcome::after {
+		display: none !important;
+	}
+
+	.layout-main .chip-body .brdr-box .flex-end-welcome > div {
+		width: auto !important;
+		min-width: 0;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	.layout-main .chip-body .brdr-box .flex-end-welcome .welcome-items {
+		display: flex !important;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start; /* icons line up across a row even when a label wraps */
+		gap: 6px;
+		width: 100% !important;
+		min-height: 64px;
+		margin: 0 !important;
+		padding: 4px !important;
+		text-align: center;
+	}
+
+	.layout-main .chip-body .brdr-box .flex-end-welcome .welcome-items > div:first-child {
+		flex: 0 0 auto;
+		margin: 0 !important;
+	}
+
+	.layout-main .chip-body .brdr-box .flex-end-welcome .welcome-items > span {
+		white-space: normal;
+		text-align: center;
+	}
+
+	/* Extra dropdown slot: its own full row when it has content, gone when empty */
+	.layout-main .chip-body .brdr-box .flex-end-welcome > .accordion-dropdown-container {
+		grid-column: 1 / -1;
+	}
+
+	.layout-main .chip-body .brdr-box .flex-end-welcome > .accordion-dropdown-container:empty {
+		display: none !important;
+	}
+
+	/* "What would you like to do today?" cards: title row, then actions row */
+	.layout-main .chip-body .brdr-box > .row {
+		display: flex;
+		flex-direction: column;
+		margin: 0 !important;
+	}
+
+	.layout-main .chip-body .brdr-box > .row > [class*="col-md-"] {
+		float: none;
+		width: 100% !important;
+		max-width: 100%;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	/* text columns only; the icon elements keep their sprite size */
+	.layout-main .chip-body .brdr-box .cont-33-content,
+	.layout-main .chip-body .brdr-box .cont-33-content > .row,
+	.layout-main .chip-body .brdr-box .fright.icon-margin {
+		width: auto;
+		max-width: 100%;
+	}
+
+	.layout-main .chip-body .brdr-box .cont-33-content {
+		flex: 1 1 auto;
+		min-width: 0;
+		white-space: normal;
+	}
+
+	.layout-main .chip-body .brdr-box .cont-33-content .row {
+		margin: 0 !important;
+		white-space: normal;
+		overflow-wrap: anywhere;
+	}
+
+	.layout-main .chip-body .brdr-box .textpart,
+	.layout-main .chip-body .brdr-box .textpart * {
+		font-size: 14px !important;
+	}
+
+	/* (actions grid: see "Card actions" above) undo the desktop offsets on the action items */
+	.layout-main .chip-body .brdr-box .welcome-items {
+		position: static !important;
+		left: auto !important;
+		min-width: 44px;
+	}
+
+	/* Schedule a Demo + help line under the cards: centred (the button sat at the right) */
+	.layout-main .chip-body .form-simple-search > .btn-align {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 8px;
+		padding-bottom: 16px;
+		text-align: center;
+	}
+
+	.layout-main .chip-body .form-simple-search > .btn-align > button.schedule {
+		float: none !important;
+		margin: 0 auto !important;
+	}
+
+	.layout-main .chip-body .form-simple-search > .btn-align > .display-flex {
+		justify-content: center;
+		width: 100%;
+	}
+
+	.layout-main .chip-body .form-simple-search > .btn-align .help-welcome-tab {
+		margin: 0 !important;
+		text-align: center;
+	}
+
+	/* Search condition rows (Search Field / Operator / keyword box / + −), Search tab and global search: the + joins the
+	   keyword box's right edge as one control; on added rows the − + pair sits beside the box */
+	.layout-main :is(div, fieldset):has(> .add-btn-custom):has(> div .react-tags) {
+		display: flex !important;
+		flex-wrap: wrap;
+		align-items: flex-end;
+		column-gap: 0;
+	}
+
+	.layout-main :is(div, fieldset):has(> .add-btn-custom):has(> div .react-tags) > * {
+		flex: 1 1 100%;
+		float: none;
+		max-width: 100%;
+	}
+
+	.layout-main :is(div, fieldset):has(> .add-btn-custom):has(> div .react-tags) > div:has(.react-tags) {
+		flex: 1 1 0;
+		width: auto !important;
+		min-width: 0;
+		padding-right: 0 !important;
+		padding-bottom: 0 !important;
+	}
+
+	.layout-main :is(div, fieldset):has(> .add-btn-custom):has(> div .react-tags) > .add-btn-custom {
+		flex: 0 0 auto;
+		width: auto !important;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	/* first row: + joined to the box */
+	.layout-main.layout-main div:has(+ .add-btn-custom > .plus-icon) .react-tags.react-tags {
+		border-top-right-radius: 0 !important;
+		border-bottom-right-radius: 0 !important;
+		border-right: 0 !important;
+	}
+
+	/* the keyword box's label is a blank (&nbsp;) line on desktop for alignment with Search Field / Operator */
+	.layout-main .top-margin-label:has(> fieldset .react-tags) > label.label {
+		display: none !important;
+	}
+
+	.layout-main .add-btn-custom:not(:has(.in-fl)) > .plus-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 48px;
+		min-height: 44px;
+		height: var(--keyword-box-h, 53px);
+		margin: 0 !important;
+		border-radius: 0 7px 7px 0 !important;
+	}
+
+	/* added rows: − + beside the box */
+	.layout-main :is(div, fieldset):has(> .add-btn-custom > .in-fl) {
+		column-gap: 8px;
+	}
+
+	.layout-main .add-btn-custom .in-fl {
+		display: flex;
+		gap: 8px;
+	}
+
+	.layout-main .add-btn-custom .btn {
+		min-width: 44px;
+		min-height: 44px;
+		margin: 0 !important;
+	}
+
+	/* Search / Advanced tabs: 44px fields, 16px text */
+	.layout-main .chip-body select.form-control,
+	.layout-main .chip-body input.form-control,
+	.layout-main article.pad-2em select.form-control,
+	.layout-main article.pad-2em input.form-control {
+		min-height: 44px;
+		font-size: 16px !important;
+	}
+
+	.layout-main article.pad-2em .btn,
+	.layout-main article.pad-2em button.schedule {
+		min-width: 44px;
+		min-height: 44px;
+	}
+
+	/* Home tabs (Welcome / Search / Trending…): ~44px of stacked spacing under the banner trimmed */
+	.layout-main article.pad-2em:has(> .rc-tabs) {
+		padding-top: 0 !important;
+	}
+
+	.layout-main article.pad-2em > .rc-tabs > .rc-tabs-bar .rc-tabs-nav {
+		margin-top: 0 !important;
+	}
+}
+
+/* Universal Search tab (blank state): the form kept a -24px top margin (it overlapped the two-line title) and 75% width */
+@media (max-width: 767px) {
+	.blank-universal-Search form.search-box-mobile {
+		width: 100% !important;
+		margin: 12px 0 0 !important;
+		padding: 0 !important;
+	}
+
+	.blank-universal-Search .header-text-mobile {
+		padding-top: 12px;
+		font-size: 20px !important;
+		line-height: 1.3;
+	}
+
+	.blank-universal-Search .header-text-mobile > div {
+		font-size: 20px !important;
+	}
+}
+
+/* HS Locator button (Welcome / Universal Search, HS code search): flush with the search field's left edge
+   (QA #75647 round 2 #5); 44px tall */
+@media (max-width: 767px) {
+	.universalsearch-hslocator {
+		margin-left: 0 !important;
+		padding-left: 0 !important;
+	}
+
+	.universalsearch-hslocator .btn {
+		min-height: 44px;
+		margin-left: 0 !important;
+	}
+}
+
+/* HS code search (Welcome / Universal Search): "HS 2" select, HS Locator and the info icon on one line, the search
+   field below. The select and the search field share .universalsearch-inputgroup, so that wrapper steps aside
+   (display: contents) and the form orders its pieces. */
+@media (max-width: 767px) {
+	form:has(> .universalsearch-inputgroup):has(> .universalsearch-hslocator > button:not([hidden])) {
+		display: flex !important;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 8px;
+	}
+
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .universalsearch-inputgroup {
+		display: contents !important;
+	}
+
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .universalsearch-inputgroup > select {
+		order: 1;
+		flex: 1 1 0 !important;
+		width: auto !important;
+		min-width: 0;
+	}
+
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .universalsearch-hslocator {
+		order: 2;
+		flex: 0 0 auto;
+		width: auto !important;
+		margin: 0 !important;
+		padding: 0 !important;
+	}
+
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .universalsearch-hslocator .btn {
+		height: 44px;
+		margin: 0 !important;
+		padding: 0 12px !important;
+		white-space: nowrap;
+	}
+
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .volza-info-btn {
+		order: 3;
+		flex: 0 0 auto;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		min-width: 32px;
+		min-height: 44px;
+		margin: 0 !important;
+	}
+
+	/* the search field's wrapper is .welcome-tab-input-group on the Welcome tab (HS / product search), .input-group otherwise */
+	form:has(> .universalsearch-hslocator > button:not([hidden])) > .universalsearch-inputgroup > :is(.input-group, .welcome-tab-input-group) {
+		order: 4;
+		flex: 1 1 100% !important;
+	}
+}

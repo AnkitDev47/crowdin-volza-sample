@@ -1,0 +1,6740 @@
+.bg-21_years {
+	width: 180px;
+	height: 60px;
+	background: url('sprite.png') -1px -458px;
+}
+
+.bg-42Countries {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -591px -328px;
+}
+
+.bg-access_log {
+	width: 20px;
+	height: 23px;
+	background: url('sprite.png') -23px -925px;
+}
+
+.bg-afghanistan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -345px -409px;
+}
+
+.bg-albania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -397px -409px;
+}
+
+.bg-algeria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -403px -520px;
+}
+
+.bg-andorra {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -455px -520px;
+}
+
+.bg-angola {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -507px -520px;
+}
+
+.bg-antigua_and_barbuda,
+.bg-antiguaandbarbuda {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -559px -520px;
+}
+
+.bg-argentina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -602px;
+}
+
+.bg-armenia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -602px;
+}
+
+.bg-arrow {
+	width: 30px;
+	height: 20px;
+	background: url('sprite.png') -941px -663px;
+}
+
+.bg-australia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -602px;
+}
+
+.bg-austria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -602px;
+}
+
+.bg-azerbaijan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -602px;
+}
+
+.bg-bahamas {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -602px;
+}
+
+.bg-bahrain {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -602px;
+}
+
+.bg-bangladesh {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -602px;
+}
+
+.bg-bar {
+	width: 17px;
+	height: 26px;
+	background: url('sprite.png') -635px -390px;
+}
+
+.bg-barbados {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -602px;
+}
+
+.bg-belarus {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -602px;
+}
+
+.bg-belgium {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -602px;
+}
+
+.bg-belize {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -602px;
+}
+
+.bg-benin {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -1px;
+}
+
+.bg-best_seller {
+	width: 95px;
+	height: 36px;
+	background: url('sprite.png') -366px -292px;
+}
+
+.bg-bhutan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -48px;
+}
+
+.bg-black_access_log {
+	width: 20px;
+	height: 23px;
+	background: url('sprite.png') -45px -925px;
+}
+
+.bg-black_download {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -575px -430px;
+}
+
+.bg-black_favorite {
+	width: 23px;
+	height: 20px;
+	background: url('sprite.png') -157px -893px;
+}
+
+.bg-black_home {
+	width: 25px;
+	height: 23px;
+	background: url('sprite.png') -941px -783px;
+}
+
+.bg-black_logout {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -729px -696px;
+}
+
+.bg-black_my_account {
+	width: 24px;
+	height: 23px;
+	background: url('sprite.png') -523px -430px;
+}
+
+.bg-black_my_workspace {
+	width: 24px;
+	height: 21px;
+	background: url('sprite.png') -677px -649px;
+}
+
+.bg-black_notification {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -941px -881px;
+}
+
+.bg-black_share {
+	width: 19px;
+	height: 21px;
+	background: url('sprite.png') -468px -219px;
+}
+
+.bg-black_subscription {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -67px -925px;
+}
+
+.bg-black_ticket {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -501px;
+}
+
+.bg-black_user {
+	width: 28px;
+	height: 21px;
+	background: url('sprite.png') -941px -711px;
+}
+
+.bg-bolivia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -95px;
+}
+
+.bg-bosnia_and_herzegovina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -142px;
+}
+
+.bg-botswana {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -189px;
+}
+
+.bg-brazil {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -236px;
+}
+
+.bg-brunei {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -283px;
+}
+
+.bg-bulgaria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -330px;
+}
+
+.bg-Burkina_Faso,
+.bg-burkinafaso {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -700px;
+}
+
+.bg-burkina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -377px;
+}
+
+.bg-burundi {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -424px;
+}
+
+.bg-buyer {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -781px -743px;
+}
+
+.bg-buyer_lg {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -635px;
+}
+
+.bg-calendar {
+	width: 34px;
+	height: 34px;
+	background: url('sprite.png') -863px -81px;
+}
+
+.bg-cambodia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -471px;
+}
+
+.bg-cameroon {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -518px;
+}
+
+.bg-canada {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -565px;
+}
+
+.bg-cape_verde {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -649px;
+}
+
+.bg-central_african_republic, .bg-centralafrica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -649px;
+}
+
+.bg-centralamerica {
+	width: 50px;
+	height: 45px;
+	background: url('/assets/img/centralAmerica.png');
+	background-position: center;
+	background-size: cover;
+}
+
+.bg-chad {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -649px;
+}
+
+.bg-checked {
+	width: 67px;
+	height: 67px;
+	background: url('sprite.png') -165px -520px;
+}
+
+.bg-chile {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -649px;
+}
+
+.bg-china {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -649px;
+}
+
+.bg-close {
+	width: 12px;
+	height: 12px;
+	background: url('sprite.png') -745px -674px;
+}
+
+.bg-Co_Browsing {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -183px -458px;
+}
+
+.bg-columbia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -649px;
+}
+
+.bg-column {
+	width: 29px;
+	height: 26px;
+	background: url('sprite.png') -941px -283px;
+}
+
+.bg-combine {
+	width: 25px;
+	height: 24px;
+	background: url('sprite.png') -941px -685px;
+}
+
+.bg-coming_soon {
+	width: 53px;
+	height: 47px;
+	background: url('sprite.png') -290px -409px;
+}
+
+.bg-comoros {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -649px;
+}
+
+.bg-companies {
+	width: 25px;
+	height: 25px;
+	background: url('sprite.png') -941px -579px;
+}
+
+.bg-companysize {
+	width: 27px;
+	height: 26px;
+	background: url('sprite.png') -941px -366px;
+}
+
+.bg-comp_contact {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -667px;
+}
+
+.bg-comp_contact_number {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -699px;
+}
+
+.bg-comp_email {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -731px;
+}
+
+.bg-comp_excel {
+	width: 26px;
+	height: 26px;
+	background: url('sprite.png') -941px -394px;
+}
+
+.bg-comp_microsoft_excel {
+	width: 16px;
+	height: 15px;
+	background: url('sprite.png') -252px -893px;
+}
+
+.bg-congo_democratic_republic_of_the {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -649px;
+}
+
+.bg-congo_republic_of_the {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -649px;
+}
+
+.bg-corporate {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -428px;
+}
+
+.bg-costarica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -649px;
+}
+
+.bg-countryoforigin {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -335px;
+}
+
+.bg-cote_d_ivoire {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -649px;
+}
+
+.bg-croatia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -649px;
+}
+
+.bg-cuba {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -649px;
+}
+
+.bg-custom_dashboard {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -235px -458px;
+}
+
+.bg-custom_excel {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -287px -458px;
+}
+
+.bg-cyprus {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -1px;
+}
+
+.bg-Dashboard {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -339px -458px;
+}
+
+.bg-czechrepublic {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -48px;
+}
+
+.bg-denmark {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -95px;
+}
+
+.bg-djibouti {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -142px;
+}
+
+.bg-Dominica,
+.bg-dominica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -189px;
+}
+
+.bg-dominican_republic {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -236px;
+}
+
+.bg-download {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -600px -430px;
+}
+
+.bg-ecuador {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -283px;
+}
+
+.bg-egypt {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -330px;
+}
+
+.bg-El_Salvador {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -730px;
+}
+
+.bg-email {
+	width: 24px;
+	height: 19px;
+	background: url('sprite.png') -207px -893px;
+}
+
+.bg-email2 {
+	width: 29px;
+	height: 29px;
+	background: url('sprite.png') -941px -63px;
+}
+
+.bg-enterprises {
+	width: 27px;
+	height: 31px;
+	background: url('sprite.png') -941px -125px;
+}
+
+.bg-Equatorial_Guinea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -760px;
+}
+
+.bg-Eritrea,
+.bg-eritrea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -790px;
+}
+
+.bg-estonia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -377px;
+}
+
+.bg-Eswatini,
+.bg-eswatini {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -707px -659px;
+}
+
+.bg-ethiopia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -424px;
+}
+
+.bg-europe {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -471px;
+}
+
+.bg-excel {
+	width: 22px;
+	height: 21px;
+	background: url('sprite.png') -729px -720px;
+}
+
+.bg-excel {
+	width: 21px;
+	height: 20px;
+	background: url('sprite.png') -136px -925px;
+}
+
+.bg-excel_download {
+	width: 40px;
+	height: 30px;
+	background: url('sprite.png') -759px -706px;
+}
+
+.bg-excel_folder {
+	width: 80px;
+	height: 80px;
+	background: url('sprite.png') -1px -520px;
+}
+
+.bg-excel_icon {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -763px;
+}
+
+.bg-excel_icon_disabled {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -795px;
+}
+
+.bg-exel_download {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -462px;
+}
+
+.bg-exporter {
+	width: 26px;
+	height: 22px;
+	background: url('sprite.png') -941px -833px;
+}
+
+.bg-favorite {
+	width: 23px;
+	height: 20px;
+	background: url('sprite.png') -182px -893px;
+}
+
+.bg-Fiji, .bg-fiji {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -655px -612px;
+}
+
+.bg-Filter {
+	width: 30px;
+	height: 29px;
+	background: url('sprite.png') -941px -1px;
+}
+
+.bg-finland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -518px;
+}
+
+.bg-founded {
+	width: 24px;
+	height: 34px;
+	background: url('sprite.png') -941px -158px;
+}
+
+.bg-france {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -565px;
+}
+
+.bg-free {
+	width: 30px;
+	height: 31px;
+	background: url('sprite.png') -903px -571px;
+}
+
+.bg-Gabon,
+.bg-gabon {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -266px -790px;
+}
+
+.bg-Gambia,
+.bg-gambia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -304px -790px;
+}
+
+.bg-georgia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -612px;
+}
+
+.bg-germany {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -696px;
+}
+
+.bg-ghana {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -696px;
+}
+
+.bg-globe {
+	width: 26px;
+	height: 26px;
+	background: url('sprite.png') -941px -422px;
+}
+
+.bg-Google_Like_Search {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -391px -458px;
+}
+
+.bg-greece {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -696px;
+}
+
+.bg-Grenada,
+.bg-grenada {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -342px -790px;
+}
+
+.bg-growth {
+	width: 13px;
+	height: 13px;
+	background: url('sprite.png') -403px -567px;
+}
+
+.bg-guatemala {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -696px;
+}
+
+.bg-Guinea,
+.bg-guinea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -380px -790px;
+}
+
+.bg-Guinea_Bissau {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -418px -790px;
+}
+
+.bg-Guyana,
+.bg-guyana {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -456px -790px;
+}
+
+.bg-Haiti,
+.bg-haiti {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -494px -790px;
+}
+
+.bg-headquaters {
+	width: 30px;
+	height: 24px;
+	background: url('sprite.png') -941px -340px;
+}
+
+.bg-home {
+	width: 25px;
+	height: 23px;
+	background: url('sprite.png') -941px -808px;
+}
+
+.bg-Honduras,
+.bg-honduras {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -532px -790px;
+}
+
+.bg-hscode {
+	width: 22px;
+	height: 21px;
+	background: url('sprite.png') -781px -767px;
+}
+
+.bg-hungary {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -696px;
+}
+
+.bg-Iceland,
+.bg-iceland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -570px -790px;
+}
+
+.bg-importer {
+	width: 26px;
+	height: 22px;
+	background: url('sprite.png') -941px -857px;
+}
+
+.bg-india {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -696px;
+}
+
+.bg-indonesia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -696px;
+}
+
+.bg-industry {
+	width: 27px;
+	height: 27px;
+	background: url('sprite.png') -941px -311px;
+}
+
+.bg-infoForm {
+	width: 486px;
+	height: 187px;
+	background: url('sprite.png') -1px -1px;
+}
+
+.bg-iran, .bg-irant2 {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -696px;
+}
+
+.bg-iraq {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -696px;
+}
+
+.bg-ireland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -696px;
+}
+
+.bg-Israel,
+.bg-israel {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -608px -790px;
+}
+
+.bg-italy {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -696px;
+}
+
+.bg-ivorycoast {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -696px;
+}
+
+.bg-Jamaica,
+.bg-Jamacia,
+.bg-jamacia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -646px -790px;
+}
+
+.bg-japan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -696px;
+}
+
+.bg-Jordan,
+.bg-jordan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -684px -790px;
+}
+
+.bg-kazakhstan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -677px -696px;
+}
+
+.bg-kenya {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -1px;
+}
+
+.bg-keylogin {
+	width: 32px;
+	height: 25px;
+	background: url('sprite.png') -489px -430px;
+}
+
+.bg-Kiribati,
+.bg-kiribati {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -722px -790px;
+}
+
+.bg-korea {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -48px;
+}
+
+.bg-Kosovo, .bg-kosovo {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -760px -790px;
+}
+
+.bg-kuwait {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -95px;
+}
+
+.bg-Kyrgyzstan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -798px -790px;
+}
+
+.bg-Laos,
+.bg-laos {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -1px -833px;
+}
+
+.bg-last_updated {
+	width: 32px;
+	height: 34px;
+	background: url('sprite.png') -863px -362px;
+}
+
+.bg-latvia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -142px;
+}
+
+.bg-Lebanon,
+.bg-lebanon {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -39px -833px;
+}
+
+.bg-left_arrow {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -496px;
+}
+
+.bg-lesotho {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -189px;
+}
+
+.bg-Liberia,.bg-liberia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -77px -833px;
+}
+
+.bg-Libya,
+.bg-libya {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -115px -833px;
+}
+
+.bg-lichtenstein {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -153px -833px;
+}
+
+.bg-line {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -527px;
+}
+
+.bg-list {
+	width: 20px;
+	height: 20px;
+	background: url('sprite.png') -182px -925px;
+}
+
+.bg-lithuania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -236px;
+}
+
+.bg-location {
+	width: 19px;
+	height: 27px;
+	background: url('sprite.png') -468px -190px;
+}
+
+.bg-lock {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -530px;
+}
+
+.bg-logout {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -836px -790px;
+}
+
+.bg-luxembourg {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -283px;
+}
+
+.bg-Madagascar,
+.bg-madagascar {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -191px -833px;
+}
+
+.bg-malawi {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -229px -833px;
+}
+
+.bg-malaysia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -330px;
+}
+
+.bg-Maldives,.bg-maldives {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -267px -833px;
+}
+
+.bg-malta {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -377px;
+}
+
+.bg-margin {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -90px -925px;
+}
+
+.bg-Marshall_Islands,
+.bg-marshallislands {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -305px -833px;
+}
+
+.bg-dollar {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -827px;
+}
+
+.bg-Mauritania,
+.bg-mauritania {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -343px -833px;
+}
+
+.bg-Mauritius,
+.bg-mauritius {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -381px -833px;
+}
+
+.bg-mexico {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -424px;
+}
+
+.bg-Micronesia,
+.bg-micronesia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -419px -833px;
+}
+
+.bg-Moldova, .bg-moldova {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -457px -833px;
+}
+
+.bg-Monaco,
+.bg-monaco {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -495px -833px;
+}
+
+.bg-money_back {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -443px -458px;
+}
+
+.bg-Mongolia,
+.bg-mongolia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -533px -833px;
+}
+
+.bg-Montenegro, .bg-montenegro {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -833px;
+}
+
+.bg-Morocco,
+.bg-morocco {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -609px -833px;
+}
+
+.bg-Mozambique,
+.bg-mozambique {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -647px -833px;
+}
+
+.bg-my_account {
+	width: 24px;
+	height: 23px;
+	background: url('sprite.png') -549px -430px;
+}
+
+.bg-Myanmar__formerly_Burma_,
+.bg-myanmarformerlyburma {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -685px -833px;
+}
+
+.bg-my_workspace {
+	width: 24px;
+	height: 21px;
+	background: url('sprite.png') -677px -672px;
+}
+
+.bg-na, .bg-notavailable {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -471px;
+}
+
+.bg-namibia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -723px -833px;
+}
+
+.bg-Nauru,
+.bg-nauru {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -761px -833px;
+}
+
+.bg-Nepal,
+.bg-nepal {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -799px -833px;
+}
+
+.bg-netherlands {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -518px;
+}
+
+.bg-Never_Pay_again {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -495px -458px;
+}
+
+.bg-New_Zealand,
+.bg-newzealand {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -837px -833px;
+}
+
+.bg-New_zeland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -1px -863px;
+}
+
+.bg-new {
+	width: 164px;
+	height: 166px;
+	background: url('sprite.png') -489px -1px;
+}
+
+.bg-new2 {
+	width: 100px;
+	height: 100px;
+	background: url('sprite.png') -489px -328px;
+}
+
+.bg-facebook {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -611px -520px;
+}
+
+.bg-new3 {
+	width: 160px;
+	height: 157px;
+	background: url('sprite.png') -489px -169px;
+}
+
+.bg-Nicaragua,
+.bg-nicaragua {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -39px -863px;
+}
+.bg-Niger,
+.bg-niger {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -77px -863px;
+}
+
+.bg-nigeria {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -115px -863px;
+}
+
+.bg-Niue,
+.bg-niue {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -153px -863px;
+}
+
+.bg-no {
+	width: 28px;
+	height: 28px;
+	background: url('sprite.png') -941px -194px;
+}
+
+.bg-North_Korea,
+.bg-northkorea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -191px -863px;
+}
+
+.bg-North_Macedonia,
+.bg-northmacedonia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -229px -863px;
+}
+
+.bg-norway {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -565px;
+}
+
+.bg-notification {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -463px -292px;
+}
+
+.bg-oman {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -612px;
+}
+
+.bg-pakistan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -659px;
+}
+
+.bg-Palau,
+.bg-palau {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -267px -863px;
+}
+
+.bg-panama {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -743px;
+}
+
+.bg-globe2 {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -56px -790px;
+}
+
+.bg-Papua_New_Guinea,
+.bg-papuanewguinea  {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -305px -863px;
+}
+
+.bg-paraguay {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -743px;
+}
+
+.bg-parameters {
+	width: 22px;
+	height: 28px;
+	background: url('sprite.png') -941px -633px;
+}
+
+.bg-Pay_Per_Record {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -547px -458px;
+}
+
+.bg-paypal_new {
+	width: 287px;
+	height: 121px;
+	background: url('sprite.png') -1px -335px;
+}
+
+.bg-pdf {
+	width: 16px;
+	height: 23px;
+	background: url('sprite.png') -468px -265px;
+}
+
+.bg-peru {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -743px;
+}
+
+.bg-philippines {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -743px;
+}
+
+.bg-phone {
+	width: 27px;
+	height: 25px;
+	background: url('sprite.png') -941px -450px;
+}
+
+.bg-pie {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -625px -430px;
+}
+
+.bg-pivot {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -875px -833px;
+}
+
+.bg-placeholder {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -564px;
+}
+
+.bg-poland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -743px;
+}
+
+.bg-portofdestination {
+	width: 21px;
+	height: 13px;
+	background: url('sprite.png') -941px -910px;
+}
+
+.bg-portugal {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -743px;
+}
+
+.bg-productterm {
+	width: 21px;
+	height: 20px;
+	background: url('sprite.png') -159px -925px;
+}
+
+.bg-profile_anchor {
+	width: 15px;
+	height: 16px;
+	background: url('sprite.png') -204px -925px;
+}
+
+.bg-profile_Branch {
+	width: 12px;
+	height: 13px;
+	background: url('sprite.png') -745px -659px;
+}
+
+.bg-profile_comments {
+	width: 47px;
+	height: 38px;
+	background: url('sprite.png') -811px -654px;
+}
+
+.bg-profile_company {
+	width: 28px;
+	height: 27px;
+	background: url('sprite.png') -941px -254px;
+}
+
+.bg-profile_company_name {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -117px;
+}
+
+.bg-profile_destination {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -152px;
+}
+
+.bg-profile_download {
+	width: 41px;
+	height: 41px;
+	background: url('sprite.png') -811px -738px;
+}
+
+.bg-profile_email {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -187px;
+}
+
+.bg-profile_favorite {
+	width: 40px;
+	height: 37px;
+	background: url('sprite.png') -224px -790px;
+}
+
+.bg-profile_Group {
+	width: 42px;
+	height: 37px;
+	background: url('sprite.png') -591px -390px;
+}
+
+.bg-profile_Group1 {
+	width: 32px;
+	height: 29px;
+	background: url('sprite.png') -903px -604px;
+}
+
+.bg-profile_key {
+	width: 14px;
+	height: 14px;
+	background: url('sprite.png') -289px -893px;
+}
+
+.bg-profile_man_user {
+	width: 34px;
+	height: 44px;
+	background: url('sprite.png') -449px -409px;
+}
+
+.bg-profile_mobile {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -222px;
+}
+
+.bg-profile_Path {
+	width: 48px;
+	height: 40px;
+	background: url('sprite.png') -811px -612px;
+}
+
+.bg-profile_pencil {
+	width: 17px;
+	height: 17px;
+	background: url('sprite.png') -233px -893px;
+}
+
+.bg-profile_point {
+	width: 31px;
+	height: 27px;
+	background: url('sprite.png') -100px -893px;
+}
+
+.bg-profile_reset {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -257px;
+}
+
+.bg-profile_sales {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -292px;
+}
+
+.bg-profile_search1 {
+	width: 42px;
+	height: 42px;
+	background: url('sprite.png') -811px -694px;
+}
+
+.bg-profile_search2 {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -859px;
+}
+
+.bg-profile_share {
+	width: 13px;
+	height: 12px;
+	background: url('sprite.png') -468px -395px;
+}
+
+.bg-profile_tickets {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -98px -790px;
+}
+
+.bg-profile_user {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -625px -602px;
+}
+
+.bg-profile_user_name {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -327px;
+}
+
+.bg-profile_verified {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -355px;
+}
+
+.bg-profile_workspace {
+	width: 53px;
+	height: 41px;
+	background: url('sprite.png') -1px -790px;
+}
+
+.bg-project {
+	width: 18px;
+	height: 15px;
+	background: url('sprite.png') -625px -631px;
+}
+
+.bg-qatar {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -743px;
+}
+
+.bg-question_mark {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -598px;
+}
+
+.bg-report {
+	width: 25px;
+	height: 25px;
+	background: url('sprite.png') -941px -606px;
+}
+
+.bg-research {
+	width: 30px;
+	height: 29px;
+	background: url('sprite.png') -941px -32px;
+}
+
+.bg-linkedin {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -140px -790px;
+}
+
+.bg-right_arrow {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -632px;
+}
+
+.bg-romania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -743px;
+}
+
+.bg-Rule_Engine {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -599px -458px;
+}
+
+.bg-russia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -743px;
+}
+
+.bg-rwanda {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -343px -863px;
+}
+
+.bg-Saint_Kitts_and_Nevis,
+.bg-saintkittsandnevis {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -381px -863px;
+}
+
+.bg-Saint_Lucia,
+.bg-saintlucia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -419px -863px;
+}
+
+.bg-Saint_Vincent_and_the_Grenadines,
+.bg-saintvincentandthegrenadines {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -457px -863px;
+}
+
+.bg-Samoa,
+.bg-samoa {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -495px -863px;
+}
+
+.bg-San_Marino {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -533px -863px;
+}
+
+.bg-saotome {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -863px;
+}
+
+.bg-saudiarabia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -743px;
+}
+
+.bg-save_icon {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -1px -893px;
+}
+
+.bg-Senegal,
+.bg-senegal {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -609px -863px;
+}
+
+.bg-Serbia,
+.bg-serbia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -647px -863px;
+}
+
+.bg-Seychelles,
+.bg-seychelles {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -685px -863px;
+}
+
+.bg-share {
+	width: 19px;
+	height: 21px;
+	background: url('sprite.png') -468px -242px;
+}
+
+.bg-shipment {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -875px -863px;
+}
+
+.bg-Sierra_Leone,
+.bg-sierraleone {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -723px -863px;
+}
+
+.bg-singapore {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -743px;
+}
+
+.bg-slovakia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -743px;
+}
+
+.bg-slovenia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -743px;
+}
+
+.bg-small_business {
+	width: 38px;
+	height: 28px;
+	background: url('sprite.png') -863px -398px;
+}
+
+.bg-Solomon_Islands,
+.bg-solomonislands {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -761px -863px;
+}
+
+.bg-Somalia,
+.bg-somalia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -799px -863px;
+}
+
+.bg-South_Africa,
+.bg-southafrica {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -837px -863px;
+}
+
+.bg-South_Korea,
+.bg-southkorea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -1px;
+}
+
+.bg-southsudan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -31px;
+}
+
+.bg-spain {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -677px -743px;
+}
+
+.bg-srilanka {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -729px -743px;
+}
+
+.bg-stripe {
+	width: 363px;
+	height: 143px;
+	background: url('sprite.png') -1px -190px;
+}
+
+.bg-subscription {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -113px -925px;
+}
+
+.bg-Sudan,
+.bg-sudan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -61px;
+}
+
+.bg-summary {
+	width: 20px;
+	height: 24px;
+	background: url('sprite.png') -1px -925px;
+}
+
+.bg-supplier {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -133px -893px;
+}
+
+.bg-supplier_lg {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -33px -893px;
+}
+
+.bg-surface {
+	width: 17px;
+	height: 14px;
+	background: url('sprite.png') -270px -893px;
+}
+
+.bg-Suriname,
+.bg-suriname {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -91px;
+}
+
+.bg-sweden {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -1px;
+}
+
+.bg-Switzerland, .bg-switzerland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -121px;
+}
+
+.bg-Syria,
+.bg-syria {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -151px;
+}
+
+.bg-taiwan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -48px;
+}
+
+.bg-Tajikistan, .bg-tajikistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -181px;
+}
+
+.bg-tanzania {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -211px;
+}
+
+.bg-Team_Collaboration {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -299px -520px;
+}
+
+.bg-telephone {
+	width: 24px;
+	height: 24px;
+	background: url('sprite.png') -941px -757px;
+}
+
+.bg-telephone2 {
+	width: 29px;
+	height: 29px;
+	background: url('sprite.png') -941px -94px;
+}
+
+.bg-thailand,
+.bg-thailanddirectory,
+.bg-thailandactiveexporterdirectory,
+.bg-thailandactiveimporterdirectory {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -95px;
+}
+
+.bg-thumb {
+	width: 38px;
+	height: 38px;
+	background: url('sprite.png') -863px -1px;
+}
+
+.bg-thumb_green {
+	width: 38px;
+	height: 38px;
+	background: url('sprite.png') -863px -41px;
+}
+
+.bg-ticket {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -553px;
+}
+
+.bg-Timor,
+.bg-timor {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -241px;
+}
+
+.bg-Togo,
+.bg-togo {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -271px;
+}
+
+.bg-Tonga,
+.bg-tonga {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -301px;
+}
+
+.bg-Trinidad_and_Tobago {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -331px;
+}
+
+.bg-Tunisia,
+.bg-tunisia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -361px;
+}
+
+.bg-turkey {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -142px;
+}
+
+.bg-Turkmenistan,
+.bg-turkmenistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -391px;
+}
+
+.bg-type {
+	width: 33px;
+	height: 27px;
+	background: url('sprite.png') -65px -893px;
+}
+
+.bg-uae {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -189px;
+}
+
+.bg-uganda {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -236px;
+}
+
+.bg-uk {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -283px;
+}
+
+.bg-ukraine {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -330px;
+}
+
+.bg-unitedkingdom {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -377px;
+}
+
+.bg-uruguay {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -424px;
+}
+
+.bg-usa {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -471px;
+}
+
+.bg-user {
+	width: 100px;
+	height: 100px;
+	background: url('sprite.png') -366px -190px;
+}
+
+.bg-user {
+	width: 28px;
+	height: 21px;
+	background: url('sprite.png') -941px -734px;
+}
+
+.bg-user_icon {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -666px;
+}
+
+.bg-user_login {
+	width: 30px;
+	height: 22px;
+	background: url('sprite.png') -941px -477px;
+}
+
+.bg-Uzbekistan, .bg-uzbekistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -421px;
+}
+
+.bg-value {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -375px;
+}
+
+.bg-Vatican_City__Holy_See_,
+.bg-vaticancityholysee {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -451px;
+}
+
+.bg-venezuela {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -518px;
+}
+
+.bg-vietnam {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -565px;
+}
+
+.bg-volza_logo {
+	width: 176px;
+	height: 72px;
+	background: url('sprite.png') -290px -335px;
+}
+
+.bg-workspace {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -351px -520px;
+}
+
+.bg-Yemen,
+.bg-yemen {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -481px;
+}
+
+.bg-yes {
+	width: 28px;
+	height: 28px;
+	background: url('sprite.png') -941px -224px;
+}
+
+.bg-Zambia,
+.bg-zambia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -511px;
+}
+
+.bg-Zimbabwe,
+.bg-zimbabwe {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -541px;
+}
+
+.bg-zohologo {
+	width: 63px;
+	height: 63px;
+	background: url('sprite.png') -234px -520px;
+}
+
+.bg-twitter {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -182px -790px;
+}
+
+.bg-zimbabwe {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -541px;
+}
+
+.bg-fiji {
+	width: 32px;
+	height: 28px;
+	background: url('sprite.png') -2236px -659px;
+}
+
+.bg-albania-country {
+	width: 32px !important;
+	height: 28px;
+	background: url('country-flag.png') -2789px -840px;
+}
+
+.bg-algeria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -888px;
+}
+
+.bg-american_samoa-country,
+.bg-americansamoa,
+.bg-asasmamericansamoa {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -888px;
+}
+
+.bg-andorra-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -936px;
+}
+
+.bg-angola-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -936px;
+}
+
+.bg-anguilla-country,
+.bg-anguilla {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -984px;
+}
+
+.bg-antarctica-country,
+.bg-antarctica {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -984px;
+}
+
+.bg-antigua_and_barbuda-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -1032px;
+}
+
+.bg-argentina-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -1032px;
+}
+
+.bg-armenia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1125px;
+}
+
+.bg-aruba-country,
+.bg-aruba {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1125px;
+}
+
+.bg-australia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1173px;
+}
+
+.bg-austria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1173px;
+}
+
+.bg-azerbaijan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1221px;
+}
+
+.bg-bahamas-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1221px;
+}
+
+.bg-bahrain-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1269px;
+}
+
+.bg-bangladesh-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1269px;
+}
+
+.bg-barbados-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1317px;
+}
+
+.bg-belarus-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1317px;
+}
+
+.bg-belgium-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1516px;
+}
+
+.bg-belize-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1516px;
+}
+
+.bg-benin-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1516px;
+}
+
+.bg-bermuda-country, .bg-bermuda {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1516px;
+}
+
+.bg-bhutan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1564px;
+}
+
+.bg-bolivia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1564px;
+}
+
+.bg-bonaire-country,
+.bg-bonaire {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2550px -1730px;
+}
+
+.bg-bosnia_and_herzegovina-country,
+.bg-bosniaandherzegovina {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1564px;
+}
+
+.bg-botswana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1564px;
+}
+
+.bg-bouvet_island-country,
+.bg-bouvetisland {
+	width: 264px;
+	height: 119px;
+	background: url('country-flag.png') -1572px -1335px;
+}
+
+.bg-brazil-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1612px;
+}
+
+.bg-british_indian_ocean_territory-country,
+.bg-britishindianoceanterritory {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1612px;
+}
+
+.bg-brunei-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1612px;
+}
+
+.bg-brunei_darussalam-country,
+.bg-bruneidarussalam {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1612px;
+}
+
+.bg-bulgaria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1684px;
+}
+
+.bg-burkina_faso-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1684px;
+}
+
+.bg-burundi-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1684px;
+}
+
+.bg-cambodia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1732px;
+}
+
+.bg-cameroon-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1732px;
+}
+
+.bg-canada-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1732px;
+}
+
+.bg-capeverdeislands,
+.bg-cape_verde-country,
+.bg-capeverde {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1780px;
+}
+
+.bg-cayman_islands-country,
+.bg-caymanislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1780px;
+}
+
+.bg-central_african_republic-country,
+.bg-centralafricanrepublic {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1780px;
+}
+
+.bg-chad-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1828px;
+}
+
+.bg-china-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1828px;
+}
+
+.bg-cocos_keeling_islands-country,
+.bg-cocoskeelingislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1828px;
+}
+
+.bg-cocos_keeling_island-country,
+.bg-cocoskeelingisland {
+	width: 736px;
+	height: 368px;
+	background: url('country-flag.png') -10px -1545px;
+}
+
+.bg-chile-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -1920px;
+}
+
+.bg-colombia-country,
+.bg-colombia {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -1920px;
+}
+
+.bg-christmas_island-country,
+.bg-christmasisland {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -1920px;
+}
+
+.bg-comoros-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -1920px;
+}
+
+.bg-congo-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -1968px;
+}
+
+.bg-congo_the_democratic_republic-country,
+.bg-congothedemocraticrepublic {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -1968px;
+}
+
+.bg-congo_the_democratic_republic_of_the-country,
+.bg-congothedemocraticrepublicofthe {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -1968px;
+}
+
+.bg-cook_islands-country,
+.bg-cookislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -1968px;
+}
+
+.bg-costa_rica-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -2016px;
+}
+
+.bg-cote_divoire-country,
+.bg-cotedivoire {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -2016px;
+}
+
+.bg-côte_divoire-country,
+.bg-côtedivoire {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -2016px;
+}
+
+.bg-croatia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -2016px;
+}
+
+.bg-cuba-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -2064px;
+}
+
+.bg-cyprus-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -2064px;
+}
+
+.bg-czech_republic-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -2064px;
+}
+
+.bg-denmark-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -2064px;
+}
+
+.bg-djibouti-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2143px;
+}
+
+.bg-dominica-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2143px;
+}
+
+.bg-dominican_republic-country,
+.bg-dominicanrepublic {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2143px;
+}
+
+.bg-east_timor-country {
+	width: 545px;
+	height: 362px;
+	background: url('country-flag.png') -1572px -953px;
+}
+
+.bg-ecuador-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2191px;
+}
+
+.bg-egypt-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2191px;
+}
+
+.bg-el_salvador-country,
+.bg-elsalvador {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2191px;
+}
+
+.bg-equatorial_guinea-country,
+.bg-equatorialguinea {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2239px;
+}
+
+.bg-eritrea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2239px;
+}
+
+.bg-estonia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2239px;
+}
+
+.bg-ethiopia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -467px;
+}
+
+.bg-euador-country,
+.bg-euador {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -515px;
+}
+
+.bg-faeroe_islands-country {
+	width: 204px;
+	height: 134px;
+	background: url('country-flag.png') -1052px -1933px;
+}
+
+.bg-falkland_islands-country,
+.bg-falklandislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -563px;
+}
+
+.bg-faroe_islands-country,
+.bg-faroeislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -611px;
+}
+
+.bg-fiji-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -659px;
+}
+
+.bg-finland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -707px;
+}
+
+.bg-france-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -755px;
+}
+
+.bg-french_guiana-country,
+.bg-frenchguiana {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -803px;
+}
+
+.bg-french_polynesia-country,
+.bg-frenchpolynesia {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -851px;
+}
+
+.bg-gabon-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -899px;
+}
+
+.bg-gambia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -953px;
+}
+
+.bg-georgia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -953px;
+}
+
+.bg-germany-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -953px;
+}
+
+.bg-ghana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1001px;
+}
+
+.bg-gibraltar-country,
+.bg-gibraltar {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1001px;
+}
+
+.bg-greece-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1001px;
+}
+
+.bg-greenland-country,
+.bg-greenland {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1049px;
+}
+
+.bg-grenada-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1049px;
+}
+
+.bg-guadeloupe-country,
+.bg-guadeloupe {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1049px;
+}
+
+.bg-guam-country,
+.bg-guam {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1097px;
+}
+
+.bg-guatemala-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1097px;
+}
+
+.bg-guinea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1097px;
+}
+
+.bg-guinea_bissau-country,
+.bg-guineabissau {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1145px;
+}
+
+.bg-guyana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1145px;
+}
+
+.bg-haiti-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1145px;
+}
+
+.bg-heard_island_and_mcdonald_islands-country,
+.bg-heardislandandmcdonaldislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1193px;
+}
+
+.bg-holy_see__vatican_city_state_-country,
+.bg-holyseevaticancitystate {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1193px;
+}
+
+.bg-honduras-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1193px;
+}
+
+.bg-hong_kong-country, .bg-hongkong {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1241px;
+}
+
+.bg-hungary-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1241px;
+}
+
+.bg-21_years {
+	width: 180px;
+	height: 60px;
+	background: url('sprite.png') -1px -458px;
+}
+
+.bg-new-21_years {
+	width: 174px;
+	height: 71px;
+	background: url('sprite.png') -1px -454px;
+}
+
+.bg-42Countries {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -591px -328px;
+}
+
+.bg-access_log {
+	width: 20px;
+	height: 23px;
+	background: url('sprite.png') -23px -925px;
+}
+
+.bg-afghanistan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -345px -409px;
+}
+
+.bg-albania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -397px -409px;
+}
+
+.bg-algeria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -403px -520px;
+}
+
+.bg-andorra {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -455px -520px;
+}
+
+.bg-angola {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -507px -520px;
+}
+
+.bg-antigua_and_barbuda {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -559px -520px;
+}
+
+.bg-argentina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -602px;
+}
+
+.bg-armenia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -602px;
+}
+
+.bg-arrow {
+	width: 30px;
+	height: 20px;
+	background: url('sprite.png') -941px -663px;
+}
+
+.bg-australia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -602px;
+}
+
+.bg-austria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -602px;
+}
+
+.bg-azerbaijan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -602px;
+}
+
+.bg-bahamas {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -602px;
+}
+
+.bg-bahrain {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -602px;
+}
+
+.bg-bangladesh {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -602px;
+}
+
+.bg-bar {
+	width: 17px;
+	height: 26px;
+	background: url('sprite.png') -635px -390px;
+}
+
+.bg-barbados {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -602px;
+}
+
+.bg-belarus {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -602px;
+}
+
+.bg-belgium {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -602px;
+}
+
+.bg-belize {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -602px;
+}
+
+.bg-benin {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -1px;
+}
+
+.bg-best_seller {
+	width: 95px;
+	height: 36px;
+	background: url('sprite.png') -366px -292px;
+}
+
+.bg-bhutan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -48px;
+}
+
+.bg-black_access_log {
+	width: 20px;
+	height: 23px;
+	background: url('sprite.png') -45px -925px;
+}
+
+.bg-black_download {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -575px -430px;
+}
+
+.bg-black_favorite {
+	width: 23px;
+	height: 20px;
+	background: url('sprite.png') -157px -893px;
+}
+
+.bg-black_home {
+	width: 25px;
+	height: 23px;
+	background: url('sprite.png') -941px -783px;
+}
+
+.bg-black_logout {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -729px -696px;
+}
+
+.bg-black_my_account {
+	width: 24px;
+	height: 23px;
+	background: url('sprite.png') -523px -430px;
+}
+
+.bg-black_my_workspace {
+	width: 24px;
+	height: 21px;
+	background: url('sprite.png') -677px -649px;
+}
+
+.bg-black_notification {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -941px -881px;
+}
+
+.bg-black_share {
+	width: 19px;
+	height: 21px;
+	background: url('sprite.png') -468px -219px;
+}
+
+.bg-black_subscription {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -67px -925px;
+}
+
+.bg-black_ticket {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -501px;
+}
+
+.bg-black_user {
+	width: 28px;
+	height: 21px;
+	background: url('sprite.png') -941px -711px;
+}
+
+.bg-bolivia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -95px;
+}
+
+.bg-bosnia_and_herzegovina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -142px;
+}
+
+.bg-botswana {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -189px;
+}
+
+.bg-brazil {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -236px;
+}
+
+.bg-brunei {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -283px;
+}
+
+.bg-bulgaria {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -330px;
+}
+
+.bg-Burkina_Faso,
+.bg-burkinafaso {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -700px;
+}
+
+.bg-burkina {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -377px;
+}
+
+.bg-burundi {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -424px;
+}
+
+.bg-buyer {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -781px -743px;
+}
+
+.bg-buyer_lg {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -635px;
+}
+
+.bg-calendar {
+	width: 34px;
+	height: 34px;
+	background: url('sprite.png') -863px -81px;
+}
+
+.bg-cambodia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -471px;
+}
+
+.bg-cameroon {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -518px;
+}
+
+.bg-canada {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -655px -565px;
+}
+
+.bg-cape_verde {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -649px;
+}
+
+.bg-central_african_republic, .bg-centralafrica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -649px;
+}
+
+.bg-centralamerica {
+	width: 50px;
+    height: 45px;
+	background: url('/assets/img/centralAmerica.png');
+	background-position: center;
+	background-size: cover;
+}
+
+.bg-chad {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -649px;
+}
+
+.bg-checked {
+	width: 67px;
+	height: 67px;
+	background: url('sprite.png') -165px -520px;
+}
+
+.bg-chile {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -649px;
+}
+
+.bg-china {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -649px;
+}
+
+.bg-china-small {
+	width: 28px;
+	height: 22px;
+	background: url('sprite.png') -209px -649px;
+}
+
+.bg-close {
+	width: 12px;
+	height: 12px;
+	background: url('sprite.png') -745px -674px;
+}
+
+.bg-Co_Browsing {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -183px -458px;
+}
+
+.bg-columbia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -649px;
+}
+
+.bg-column {
+	width: 29px;
+	height: 26px;
+	background: url('sprite.png') -941px -283px;
+}
+
+.bg-combine {
+	width: 25px;
+	height: 24px;
+	background: url('sprite.png') -941px -685px;
+}
+
+.bg-coming_soon {
+	width: 53px;
+	height: 47px;
+	background: url('sprite.png') -290px -409px;
+}
+
+.bg-comoros {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -649px;
+}
+
+.bg-companies {
+	width: 25px;
+	height: 25px;
+	background: url('sprite.png') -941px -579px;
+}
+
+.bg-companysize {
+	width: 27px;
+	height: 26px;
+	background: url('sprite.png') -941px -366px;
+}
+
+.bg-comp_contact {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -667px;
+}
+
+.bg-comp_contact_number {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -699px;
+}
+
+.bg-comp_email {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -731px;
+}
+
+.bg-comp_excel {
+	width: 26px;
+	height: 26px;
+	background: url('sprite.png') -941px -394px;
+}
+
+.bg-comp_microsoft_excel {
+	width: 16px;
+	height: 15px;
+	background: url('sprite.png') -252px -893px;
+}
+
+.bg-congo_democratic_republic_of_the {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -649px;
+}
+
+.bg-congo_republic_of_the {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -649px;
+}
+
+.bg-corporate {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -428px;
+}
+
+.bg-costarica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -649px;
+}
+
+.bg-countryoforigin {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -335px;
+}
+
+.bg-cote_d_ivoire {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -649px;
+}
+
+.bg-croatia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -649px;
+}
+
+.bg-cuba {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -649px;
+}
+
+.bg-custom_dashboard {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -235px -458px;
+}
+
+.bg-custom_excel {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -287px -458px;
+}
+
+.bg-cyprus {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -1px;
+}
+
+.bg-Dashboard {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -339px -458px;
+}
+
+.bg-czechrepublic {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -48px;
+}
+
+.bg-denmark {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -95px;
+}
+
+.bg-djibouti {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -142px;
+}
+
+.bg-Dominica {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -189px;
+}
+
+.bg-dominican_republic {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -236px;
+}
+
+.bg-download {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -600px -430px;
+}
+
+.bg-ecuador {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -283px;
+}
+
+.bg-egypt {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -330px;
+}
+
+.bg-El_Salvador {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -730px;
+}
+
+.bg-email {
+	width: 24px;
+	height: 19px;
+	background: url('sprite.png') -207px -893px;
+}
+
+.bg-email2 {
+	width: 29px;
+	height: 29px;
+	background: url('sprite.png') -941px -63px;
+}
+
+.bg-enterprises {
+	width: 27px;
+	height: 31px;
+	background: url('sprite.png') -941px -125px;
+}
+
+.bg-Equatorial_Guinea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -760px;
+}
+
+.bg-Eritrea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -863px -790px;
+}
+
+.bg-estonia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -377px;
+}
+
+.bg-Eswatini {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -707px -659px;
+}
+
+.bg-ethiopia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -424px;
+}
+
+.bg-europe {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -471px;
+}
+
+.bg-excel {
+	width: 22px;
+	height: 21px;
+	background: url('sprite.png') -729px -720px;
+}
+
+.bg-excel {
+	width: 21px;
+	height: 20px;
+	background: url('sprite.png') -136px -925px;
+}
+
+.bg-excel_download {
+	width: 40px;
+	height: 30px;
+	background: url('sprite.png') -759px -706px;
+}
+
+.bg-excel_folder {
+	width: 80px;
+	height: 80px;
+	background: url('sprite.png') -1px -520px;
+}
+
+.bg-excel_icon {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -763px;
+}
+
+.bg-excel_icon_disabled {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -795px;
+}
+
+.bg-exel_download {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -863px -462px;
+}
+
+.bg-exporter {
+	width: 26px;
+	height: 22px;
+	background: url('sprite.png') -941px -833px;
+}
+
+.bg-favorite {
+	width: 23px;
+	height: 20px;
+	background: url('sprite.png') -182px -893px;
+}
+
+.bg-Fiji {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -655px -612px;
+}
+
+.bg-Filter {
+	width: 30px;
+	height: 29px;
+	background: url('sprite.png') -941px -1px;
+}
+
+.bg-finland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -518px;
+}
+
+.bg-founded {
+	width: 24px;
+	height: 34px;
+	background: url('sprite.png') -941px -158px;
+}
+
+.bg-france {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -565px;
+}
+
+.bg-free {
+	width: 30px;
+	height: 31px;
+	background: url('sprite.png') -903px -571px;
+}
+
+.bg-Gabon {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -266px -790px;
+}
+
+.bg-Gambia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -304px -790px;
+}
+
+.bg-georgia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -707px -612px;
+}
+
+.bg-germany {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -696px;
+}
+
+.bg-ghana {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -696px;
+}
+
+.bg-globe {
+	width: 26px;
+	height: 26px;
+	background: url('sprite.png') -941px -422px;
+}
+
+.bg-Google_Like_Search {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -391px -458px;
+}
+
+.bg-greece {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -696px;
+}
+
+.bg-Grenada {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -342px -790px;
+}
+
+.bg-growth {
+	width: 13px;
+	height: 13px;
+	background: url('sprite.png') -403px -567px;
+}
+
+.bg-guatemala {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -696px;
+}
+
+.bg-Guinea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -380px -790px;
+}
+
+.bg-Guinea_Bissau {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -418px -790px;
+}
+
+.bg-Guyana {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -456px -790px;
+}
+
+.bg-Haiti {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -494px -790px;
+}
+
+.bg-headquaters {
+	width: 30px;
+	height: 24px;
+	background: url('sprite.png') -941px -340px;
+}
+
+.bg-home {
+	width: 25px;
+	height: 23px;
+	background: url('sprite.png') -941px -808px;
+}
+
+.bg-Honduras {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -532px -790px;
+}
+
+.bg-hscode {
+	width: 22px;
+	height: 21px;
+	background: url('sprite.png') -781px -767px;
+}
+
+.bg-hungary {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -696px;
+}
+
+.bg-Iceland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -570px -790px;
+}
+
+.bg-importer {
+	width: 26px;
+	height: 22px;
+	background: url('sprite.png') -941px -857px;
+}
+
+.bg-india {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -696px;
+}
+
+.bg-india-small {
+	width: 28px;
+	height: 22px;
+	background: url('sprite.png') -271px -706px;
+}
+
+.bg-indonesia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -696px;
+}
+
+.bg-industry {
+	width: 27px;
+	height: 27px;
+	background: url('sprite.png') -941px -311px;
+}
+
+.bg-infoForm {
+	width: 486px;
+	height: 187px;
+	background: url('sprite.png') -1px -1px;
+}
+
+.bg-iran, .bg-irant2 {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -696px;
+}
+
+.bg-iraq {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -696px;
+}
+
+.bg-ireland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -696px;
+}
+
+.bg-Israel {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -608px -790px;
+}
+
+.bg-italy {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -696px;
+}
+
+.bg-ivorycoast {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -696px;
+}
+
+.bg-Jamacia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -646px -790px;
+}
+
+.bg-japan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -696px;
+}
+
+.bg-Jordan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -684px -790px;
+}
+
+.bg-kazakhstan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -677px -696px;
+}
+
+.bg-kenya {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -1px;
+}
+
+.bg-keylogin {
+	width: 32px;
+	height: 25px;
+	background: url('sprite.png') -489px -430px;
+}
+
+.bg-Kiribati {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -722px -790px;
+}
+
+.bg-korea {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -48px;
+}
+
+.bg-Kosovo,
+.bg-kosovo {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -760px -790px;
+}
+
+.bg-kuwait {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -95px;
+}
+
+.bg-Kyrgyzstan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -798px -790px;
+}
+
+.bg-Laos {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -1px -833px;
+}
+
+.bg-last_updated {
+	width: 32px;
+	height: 34px;
+	background: url('sprite.png') -863px -362px;
+}
+
+.bg-latvia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -142px;
+}
+
+.bg-Lebanon {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -39px -833px;
+}
+
+.bg-left_arrow {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -496px;
+}
+
+.bg-lesotho {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -189px;
+}
+
+.bg-Liberia,.bg-liberia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -77px -833px;
+}
+
+.bg-Libya {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -115px -833px;
+}
+
+.bg-lichtenstein {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -153px -833px;
+}
+
+.bg-line {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -527px;
+}
+
+.bg-list {
+	width: 20px;
+	height: 20px;
+	background: url('sprite.png') -182px -925px;
+}
+
+.bg-lithuania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -236px;
+}
+
+.bg-location {
+	width: 19px;
+	height: 27px;
+	background: url('sprite.png') -468px -190px;
+}
+
+.bg-lock {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -530px;
+}
+
+.bg-logout {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -836px -790px;
+}
+
+.bg-luxembourg {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -283px;
+}
+
+.bg-Madagascar {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -191px -833px;
+}
+
+.bg-malawi {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -229px -833px;
+}
+
+.bg-malaysia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -330px;
+}
+
+.bg-Maldives,.bg-maldives {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -267px -833px;
+}
+
+.bg-malta {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -377px;
+}
+
+.bg-margin {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -90px -925px;
+}
+
+.bg-Marshall_Islands,
+.bg-marshallislands {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -305px -833px;
+}
+
+.bg-dollar {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -827px;
+}
+
+.bg-Mauritania {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -343px -833px;
+}
+
+.bg-Mauritius {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -381px -833px;
+}
+
+.bg-mexico {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -424px;
+}
+
+.bg-Micronesia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -419px -833px;
+}
+
+.bg-Moldova, .bg-moldova {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -457px -833px;
+}
+
+.bg-Monaco {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -495px -833px;
+}
+
+.bg-money_back {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -443px -458px;
+}
+
+.bg-Mongolia,
+.bg-mongolia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -533px -833px;
+}
+
+.bg-Montenegro,
+.bg-montenegro {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -833px;
+}
+
+.bg-Morocco {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -609px -833px;
+}
+
+.bg-Mozambique {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -647px -833px;
+}
+
+.bg-my_account {
+	width: 24px;
+	height: 23px;
+	background: url('sprite.png') -549px -430px;
+}
+
+.bg-Myanmar__formerly_Burma_ {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -685px -833px;
+}
+
+.bg-my_workspace {
+	width: 24px;
+	height: 21px;
+	background: url('sprite.png') -677px -672px;
+}
+
+.bg-na {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -471px;
+}
+
+.bg-namibia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -723px -833px;
+}
+
+.bg-Nauru {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -761px -833px;
+}
+
+.bg-Nepal {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -799px -833px;
+}
+
+.bg-netherlands {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -518px;
+}
+
+.bg-Never_Pay_again {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -495px -458px;
+}
+
+.bg-New_Zealand {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -837px -833px;
+}
+
+.bg-New_zeland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -1px -863px;
+}
+
+.bg-new {
+	width: 164px;
+	height: 166px;
+	background: url('sprite.png') -489px -1px;
+}
+
+.bg-new2 {
+	width: 100px;
+	height: 100px;
+	background: url('sprite.png') -489px -328px;
+}
+
+.bg-facebook {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -611px -520px;
+}
+
+.bg-new3 {
+	width: 160px;
+	height: 157px;
+	background: url('sprite.png') -489px -169px;
+}
+
+.bg-Nicaragua, .bg-nicaragua {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -39px -863px;
+}
+.bg-Niger,
+.bg-niger {
+	width: 36px;height: 28px;
+	background: url('sprite.png') -77px -863px;
+}
+
+.bg-nigeria {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -115px -863px;
+}
+
+.bg-Niue {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -153px -863px;
+}
+
+.bg-no {
+	width: 28px;
+	height: 28px;
+	background: url('sprite.png') -941px -194px;
+}
+
+.bg-North_Korea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -191px -863px;
+}
+
+.bg-North_Macedonia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -229px -863px;
+}
+
+.bg-norway {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -565px;
+}
+
+.bg-notification {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -463px -292px;
+}
+
+.bg-oman {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -612px;
+}
+
+.bg-pakistan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -759px -659px;
+}
+
+.bg-Palau {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -267px -863px;
+}
+
+.bg-panama {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -1px -743px;
+}
+
+.bg-globe2 {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -56px -790px;
+}
+
+.bg-Papua_New_Guinea,
+.bg-papuanewguinea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -305px -863px;
+}
+
+.bg-paraguay {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -53px -743px;
+}
+
+.bg-parameters {
+	width: 22px;
+	height: 28px;
+	background: url('sprite.png') -941px -633px;
+}
+
+.bg-Pay_Per_Record {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -547px -458px;
+}
+
+.bg-paypal_new {
+	width: 287px;
+	height: 121px;
+	background: url('sprite.png') -1px -335px;
+}
+
+.bg-pdf {
+	width: 16px;
+	height: 23px;
+	background: url('sprite.png') -468px -265px;
+}
+
+.bg-peru {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -105px -743px;
+}
+
+.bg-philippines {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -743px;
+}
+.bg-philippinescomplete {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -157px -743px;
+}
+.bg-phone {
+	width: 27px;
+	height: 25px;
+	background: url('sprite.png') -941px -450px;
+}
+
+.bg-pie {
+	width: 23px;
+	height: 23px;
+	background: url('sprite.png') -625px -430px;
+}
+
+.bg-pivot {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -875px -833px;
+}
+
+.bg-placeholder {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -564px;
+}
+
+.bg-poland {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -209px -743px;
+}
+
+.bg-portofdestination {
+	width: 21px;
+	height: 13px;
+	background: url('sprite.png') -941px -910px;
+}
+
+.bg-portugal {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -261px -743px;
+}
+
+.bg-productterm {
+	width: 21px;
+	height: 20px;
+	background: url('sprite.png') -159px -925px;
+}
+
+.bg-profile_anchor {
+	width: 15px;
+	height: 16px;
+	background: url('sprite.png') -204px -925px;
+}
+
+.bg-profile_Branch {
+	width: 12px;
+	height: 13px;
+	background: url('sprite.png') -745px -659px;
+}
+
+.bg-profile_comments {
+	width: 47px;
+	height: 38px;
+	background: url('sprite.png') -811px -654px;
+}
+
+.bg-profile_company {
+	width: 28px;
+	height: 27px;
+	background: url('sprite.png') -941px -254px;
+}
+
+.bg-profile_company_name {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -117px;
+}
+
+.bg-profile_destination {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -152px;
+}
+
+.bg-profile_download {
+	width: 41px;
+	height: 41px;
+	background: url('sprite.png') -811px -738px;
+}
+
+.bg-profile_email {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -187px;
+}
+
+.bg-profile_favorite {
+	width: 40px;
+	height: 37px;
+	background: url('sprite.png') -224px -790px;
+}
+
+.bg-profile_Group {
+	width: 42px;
+	height: 37px;
+	background: url('sprite.png') -591px -390px;
+}
+
+.bg-profile_Group1 {
+	width: 32px;
+	height: 29px;
+	background: url('sprite.png') -903px -604px;
+}
+
+.bg-profile_key {
+	width: 14px;
+	height: 14px;
+	background: url('sprite.png') -289px -893px;
+}
+
+.bg-profile_man_user {
+	width: 34px;
+	height: 44px;
+	background: url('sprite.png') -449px -409px;
+}
+
+.bg-profile_mobile {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -222px;
+}
+
+.bg-profile_Path {
+	width: 48px;
+	height: 40px;
+	background: url('sprite.png') -811px -612px;
+}
+
+.bg-profile_pencil {
+	width: 17px;
+	height: 17px;
+	background: url('sprite.png') -233px -893px;
+}
+
+.bg-profile_point {
+	width: 31px;
+	height: 27px;
+	background: url('sprite.png') -100px -893px;
+}
+
+.bg-profile_reset {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -257px;
+}
+
+.bg-profile_sales {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -292px;
+}
+
+.bg-profile_search1 {
+	width: 42px;
+	height: 42px;
+	background: url('sprite.png') -811px -694px;
+}
+
+.bg-profile_search2 {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -903px -859px;
+}
+
+.bg-profile_share {
+	width: 13px;
+	height: 12px;
+	background: url('sprite.png') -468px -395px;
+}
+
+.bg-profile_tickets {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -98px -790px;
+}
+
+.bg-profile_user {
+	width: 21px;
+	height: 27px;
+	background: url('sprite.png') -625px -602px;
+}
+
+.bg-profile_user_name {
+	width: 33px;
+	height: 33px;
+	background: url('sprite.png') -863px -327px;
+}
+
+.bg-profile_verified {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -355px;
+}
+
+.bg-profile_workspace {
+	width: 53px;
+	height: 41px;
+	background: url('sprite.png') -1px -790px;
+}
+
+.bg-project {
+	width: 18px;
+	height: 15px;
+	background: url('sprite.png') -625px -631px;
+}
+
+.bg-qatar {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -313px -743px;
+}
+
+.bg-question_mark {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -598px;
+}
+
+.bg-report {
+	width: 25px;
+	height: 25px;
+	background: url('sprite.png') -941px -606px;
+}
+
+.bg-research {
+	width: 30px;
+	height: 29px;
+	background: url('sprite.png') -941px -32px;
+}
+
+.bg-linkedin {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -140px -790px;
+}
+
+.bg-right_arrow {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -632px;
+}
+
+.bg-romania {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -743px;
+}
+
+.bg-Rule_Engine {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -599px -458px;
+}
+
+.bg-russia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -417px -743px;
+}
+
+.bg-rwanda {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -343px -863px;
+}
+
+.bg-Saint_Kitts_and_Nevis,
+.bg-saintkittsandnevis  {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -381px -863px;
+}
+
+.bg-Saint_Lucia,
+.bg-saintlucia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -419px -863px;
+}
+
+.bg-Saint_Vincent_and_the_Grenadines,
+.bg-saintvincentandthegrenadines {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -457px -863px;
+}
+
+.bg-Samoa {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -495px -863px;
+}
+
+.bg-San_Marino {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -533px -863px;
+}
+
+.bg-saotome {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -863px;
+}
+
+.bg-saudiarabia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -469px -743px;
+}
+
+.bg-save_icon {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -1px -893px;
+}
+
+.bg-Senegal {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -609px -863px;
+}
+
+.bg-Serbia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -647px -863px;
+}
+
+.bg-Seychelles {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -685px -863px;
+}
+
+.bg-share {
+	width: 19px;
+	height: 21px;
+	background: url('sprite.png') -468px -242px;
+}
+
+.bg-shipment {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -875px -863px;
+}
+
+.bg-Sierra_Leone,
+.bg-sierraleone {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -723px -863px;
+}
+
+.bg-singapore {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -521px -743px;
+}
+
+.bg-slovakia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -573px -743px;
+}
+
+.bg-slovenia {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -625px -743px;
+}
+
+.bg-small_business {
+	width: 38px;
+	height: 28px;
+	background: url('sprite.png') -863px -398px;
+}
+
+.bg-Solomon_Islands,
+.bg-solomonislands {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -761px -863px;
+}
+
+.bg-Somalia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -799px -863px;
+}
+
+.bg-South_Africa {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -837px -863px;
+}
+
+.bg-South_Korea, .bg-southkorea {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -1px;
+}
+
+.bg-southsudan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -31px;
+}
+
+.bg-spain {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -677px -743px;
+}
+
+.bg-srilanka {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -729px -743px;
+}
+
+.bg-stripe {
+	width: 363px;
+	height: 143px;
+	background: url('sprite.png') -1px -190px;
+}
+
+.bg-subscription {
+	width: 21px;
+	height: 21px;
+	background: url('sprite.png') -113px -925px;
+}
+
+.bg-Sudan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -61px;
+}
+
+.bg-summary {
+	width: 20px;
+	height: 24px;
+	background: url('sprite.png') -1px -925px;
+}
+
+.bg-supplier {
+	width: 22px;
+	height: 22px;
+	background: url('sprite.png') -133px -893px;
+}
+
+.bg-supplier_lg {
+	width: 30px;
+	height: 30px;
+	background: url('sprite.png') -33px -893px;
+}
+
+.bg-surface {
+	width: 17px;
+	height: 14px;
+	background: url('sprite.png') -270px -893px;
+}
+
+.bg-Suriname {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -91px;
+}
+
+.bg-sweden {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -1px;
+}
+
+.bg-Switzerland {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -121px;
+}
+
+.bg-Syria {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -151px;
+}
+
+.bg-taiwan {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -48px;
+}
+
+.bg-Tajikistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -181px;
+}
+.bg-tanzania {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -211px;
+}
+
+.bg-Team_Collaboration {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -299px -520px;
+}
+
+.bg-telephone {
+	width: 24px;
+	height: 24px;
+	background: url('sprite.png') -941px -757px;
+}
+
+.bg-telephone2 {
+	width: 29px;
+	height: 29px;
+	background: url('sprite.png') -941px -94px;
+}
+
+.bg-thailand,
+.bg-thailanddirectory,
+.bg-thailandactiveexporterdirectory,
+.bg-thailandactiveimporterdirectory {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -95px;
+}
+
+.bg-thumb {
+	width: 38px;
+	height: 38px;
+	background: url('sprite.png') -863px -1px;
+}
+
+.bg-thumb_green {
+	width: 38px;
+	height: 38px;
+	background: url('sprite.png') -863px -41px;
+}
+
+.bg-ticket {
+	width: 27px;
+	height: 24px;
+	background: url('sprite.png') -941px -553px;
+}
+
+.bg-Timor {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -241px;
+}
+
+.bg-Togo {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -271px;
+}
+
+.bg-Tonga {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -301px;
+}
+
+.bg-Trinidad_and_Tobago {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -331px;
+}
+
+.bg-Tunisia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -361px;
+}
+
+.bg-turkey {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -142px;
+}
+
+.bg-Turkmenistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -391px;
+}
+
+.bg-type {
+	width: 33px;
+	height: 27px;
+	background: url('sprite.png') -65px -893px;
+}
+
+.bg-uae {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -189px;
+}
+
+.bg-uganda {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -236px;
+}
+
+.bg-uk {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -283px;
+}
+
+.bg-ukraine {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -330px;
+}
+
+.bg-unitedkingdom {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -377px;
+}
+
+.bg-uruguay {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -424px;
+}
+
+.bg-usa {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -471px;
+}
+
+.bg-user {
+	width: 100px;
+	height: 100px;
+	background: url('sprite.png') -366px -190px;
+}
+
+.bg-user {
+	width: 28px;
+	height: 21px;
+	background: url('sprite.png') -941px -734px;
+}
+
+.bg-user_icon {
+	width: 32px;
+	height: 32px;
+	background: url('sprite.png') -863px -666px;
+}
+
+.bg-user_login {
+	width: 30px;
+	height: 22px;
+	background: url('sprite.png') -941px -477px;
+}
+
+.bg-uzbekistan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -421px;
+}
+
+.bg-value {
+	width: 18px;
+	height: 18px;
+	background: url('sprite.png') -468px -375px;
+}
+
+.bg-Vatican_City__Holy_See_ {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -451px;
+}
+
+.bg-venezuela {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -518px;
+}
+
+.bg-vietnam {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -811px -565px;
+}
+
+.bg-volza_logo {
+	width: 176px;
+	height: 72px;
+	background: url('sprite.png') -290px -335px;
+}
+
+.bg-workspace {
+	width: 50px;
+	height: 60px;
+	background: url('sprite.png') -351px -520px;
+}
+
+.bg-Yemen {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -481px;
+}
+
+.bg-yes {
+	width: 28px;
+	height: 28px;
+	background: url('sprite.png') -941px -224px;
+}
+
+.bg-Zambia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -511px;
+}
+
+.bg-Zimbabwe {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -541px;
+}
+
+.bg-zohologo {
+	width: 63px;
+	height: 63px;
+	background: url('sprite.png') -234px -520px;
+}
+
+.bg-twitter {
+	width: 40px;
+	height: 40px;
+	background: url('sprite.png') -182px -790px;
+}
+
+.bg-zimbabwe {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -541px;
+}
+
+.bg-afghanistan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -840px;
+}
+
+.bg-albania-country {
+	width: 32px !important;
+	height: 28px;
+	background: url('country-flag.png') -2789px -840px;
+}
+
+.bg-algeria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -888px;
+}
+
+.bg-american_samoa-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -888px;
+}
+
+.bg-andorra-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -936px;
+}
+
+.bg-angola-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -936px;
+}
+
+.bg-anguilla-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -984px;
+}
+
+.bg-antarctica-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -984px;
+}
+
+.bg-antigua_and_barbuda-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -1032px;
+}
+
+.bg-argentina-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2789px -1032px;
+}
+
+.bg-armenia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1125px;
+}
+
+.bg-aruba-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1125px;
+}
+
+.bg-australia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1173px;
+}
+
+.bg-austria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1173px;
+}
+
+.bg-azerbaijan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1221px;
+}
+
+.bg-bahamas-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1221px;
+}
+
+.bg-bahrain-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1269px;
+}
+
+.bg-bangladesh-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1269px;
+}
+
+.bg-barbados-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2748px -1317px;
+}
+
+.bg-belarus-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2800px -1317px;
+}
+
+.bg-belgium-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1516px;
+}
+
+.bg-belize-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1516px;
+}
+
+.bg-benin-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1516px;
+}
+
+.bg-bermuda-country, .bg-bermuda {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1516px;
+}
+
+.bg-bhutan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1564px;
+}
+
+.bg-bolivia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1564px;
+}
+
+.bg-bonaire-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2550px -1730px;
+}
+
+.bg-bosnia_and_herzegovina-country,
+.bg-bosniaandherzegovina {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1564px;
+}
+
+.bg-botswana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1564px;
+}
+
+.bg-bouvet_island-country {
+	width: 264px;
+	height: 119px;
+	background: url('country-flag.png') -1572px -1335px;
+}
+
+.bg-brazil-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2649px -1612px;
+}
+
+.bg-british_indian_ocean_territory-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2701px -1612px;
+}
+
+.bg-brunei-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2753px -1612px;
+}
+
+.bg-brunei_darussalam-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2805px -1612px;
+}
+
+.bg-bulgaria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1684px;
+}
+
+.bg-burkina_faso-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1684px;
+}
+
+.bg-burundi-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1684px;
+}
+
+.bg-cambodia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1732px;
+}
+
+.bg-cameroon-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1732px;
+}
+
+.bg-canada-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1732px;
+}
+
+.bg-cape_verde-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1780px;
+}
+
+.bg-cayman_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1780px;
+}
+
+.bg-central_african_republic-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1780px;
+}
+
+.bg-chad-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2671px -1828px;
+}
+
+.bg-china-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2723px -1828px;
+}
+
+.bg-cocos_keeling_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2775px -1828px;
+}
+
+.bg-cocos_keeling_island-country {
+	width: 736px;
+	height: 368px;
+	background: url('country-flag.png') -10px -1545px;
+}
+
+.bg-chile-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -1920px;
+}
+
+.bg-colombia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -1920px;
+}
+
+.bg-christmas_island-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -1920px;
+}
+
+.bg-comoros-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -1920px;
+}
+
+.bg-congo-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -1968px;
+}
+.bg-congo {
+	width: 50px;
+	height: 45px;
+	background: url('sprite.png') -365px -649px;
+}
+.bg-congo_the_democratic_republic-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -1968px;
+}
+
+.bg-congo_the_democratic_republic_of_the-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -1968px;
+}
+
+.bg-cook_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -1968px;
+}
+
+.bg-costa_rica-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -2016px;
+}
+
+.bg-cote_divoire-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -2016px;
+}
+
+.bg-côte_divoire-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -2016px;
+}
+
+.bg-croatia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -2016px;
+}
+
+.bg-cuba-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2638px -2064px;
+}
+
+.bg-cyprus-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2690px -2064px;
+}
+
+.bg-czech_republic-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2742px -2064px;
+}
+
+.bg-denmark-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2794px -2064px;
+}
+
+.bg-djibouti-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2143px;
+}
+
+.bg-dominica-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2143px;
+}
+
+.bg-dominican_republic-country, .bg-dominicanrepublic-country, .bg-dominicanrepublic {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2143px;
+}
+
+.bg-east_timor-country,
+.bg-easttimor  {
+	width: 30px;
+	height: 30px;
+	background: url('country-flag.png') -1689px -961px;
+	background-size: 177px 218px;
+}
+
+.bg-ecuador-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2191px;
+}
+
+.bg-egypt-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2191px;
+}
+
+.bg-el_salvador-country,
+.bg-elsalvador {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2191px;
+}
+
+.bg-equatorial_guinea-country,
+.bg-equatorialguinea {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2670px -2239px;
+}
+
+.bg-eritrea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2722px -2239px;
+}
+
+.bg-estonia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2774px -2239px;
+}
+
+.bg-ethiopia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -467px;
+}
+
+.bg-euador-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -515px;
+}
+
+.bg-faeroe_islands-country,
+.bg-faeroeislands {
+	width: 32px;
+ 	height: 21px;
+ 	background: url(/assets/img/faeroeislands.png) no-repeat center;
+}
+
+.bg-falkland_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -563px;
+}
+
+.bg-faroe_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -611px;
+}
+
+.bg-fiji{
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -659px;
+}
+
+.bg-finland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -707px;
+}
+
+.bg-france-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -755px;
+}
+
+.bg-french_guiana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -803px;
+}
+
+.bg-french_polynesia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -851px;
+}
+
+.bg-gabon-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2236px -899px;
+}
+
+.bg-gambia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -953px;
+}
+
+.bg-georgia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -953px;
+}
+
+.bg-germany-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -953px;
+}
+
+.bg-ghana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1001px;
+}
+
+.bg-gibraltar-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1001px;
+}
+
+.bg-greece-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1001px;
+}
+
+.bg-greenland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1049px;
+}
+
+.bg-grenada-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1049px;
+}
+
+.bg-guadeloupe-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1049px;
+}
+
+.bg-guam-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1097px;
+}
+
+.bg-guatemala-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1097px;
+}
+
+.bg-guinea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1097px;
+}
+
+.bg-guinea_bissau-country,
+.bg-guineabissau {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1145px;
+}
+
+.bg-guyana-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1145px;
+}
+
+.bg-haiti-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1145px;
+}
+
+.bg-heard_island_and_mcdonald_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1193px;
+}
+
+.bg-holy_see__vatican_city_state_-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1193px;
+}
+
+.bg-honduras-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1193px;
+}
+
+.bg-hong_kong-country,
+.bg-hongkong {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2137px -1241px;
+}
+
+.bg-hungary-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2189px -1241px;
+}
+
+.bg-iceland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2241px -1241px;
+}
+
+.bg-india-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1856px -1335px;
+}
+
+.bg-indonesia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1908px -1335px;
+}
+
+.bg-iran-country, .bg-irant2-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1960px -1335px;
+}
+
+.bg-iraq-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2012px -1335px;
+}
+
+.bg-ireland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2064px -1335px;
+}
+
+.bg-israel-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2116px -1335px;
+}
+
+.bg-italy-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2168px -1335px;
+}
+
+.bg-ivory_coast-country {
+	width: 50px;
+	height: 33px;
+	background: url('sprite.png') -575px -699px;
+}
+
+.bg-jamaica-country, .bg-jamaica {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2220px -1335px;
+}
+
+.bg-japan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2272px -1335px;
+}
+
+.bg-jordan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1856px -1383px;
+}
+
+.bg-kazakhstan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1908px -1383px;
+}
+
+.bg-kenya-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1960px -1383px;
+}
+
+.bg-kiribati-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2012px -1383px;
+}
+
+.bg-korea_republic_of-country,
+.bg-korearepublicof {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2116px -1383px;
+}
+
+.bg-krgystan-country,
+.bg-krgystan {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2168px -1383px;
+}
+
+.bg-kuwait-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2220px -1383px;
+}
+
+.bg-kyrgyzstan-country,
+.bg-kyrgyzstan {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2272px -1383px;
+}
+
+.bg-laos-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -1px -833px;
+}
+
+.bg-latvia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1624px -1474px;
+}
+
+.bg-lebanon-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1676px -1474px;
+}
+
+.bg-lesotho-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1728px -1474px;
+}
+
+.bg-liberia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1780px -1474px;
+}
+
+.bg-libya-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -115px -833px;
+}
+
+.bg-liechtenstein-country, .bg-liechtenstein {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1832px -1474px;
+}
+
+.bg-lithuania-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1884px -1474px;
+}
+
+.bg-luxembourg-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1936px -1474px;
+}
+
+.bg-macao-country,
+.bg-macao {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1988px -1474px;
+}
+
+.bg-macedonia-country,
+.bg-macedonia {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -229px -863px;
+}
+
+.bg-madagascar-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2040px -1474px;
+}
+
+.bg-malawi-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2092px -1474px;
+}
+
+.bg-malaysia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2144px -1474px;
+}
+
+.bg-maldives-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2196px -1474px;
+}
+
+.bg-mali-country,
+.bg-mali {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2248px -1474px;
+}
+
+.bg-malta-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1035px;
+}
+
+.bg-mamibia-country,
+.bg-mamibia {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1083px;
+}
+
+.bg-marshall_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1131px;
+}
+
+.bg-martinique-country,
+.bg-martinique {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1179px;
+}
+
+.bg-mauritania-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1227px;
+}
+
+.bg-mauritius-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1275px;
+}
+
+.bg-mexico-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1323px;
+}
+
+.bg-micronesia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1371px;
+}
+
+.bg-micronesia_federated_states-country,
+.bg-micronesiafederatedstates {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1371px;
+}
+
+.bg-moldova-country,
+.bg-moldova {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -457px -833px;
+}
+
+.bg-moldova_republic_of-country,
+.bg-moldovarepublicof {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1419px;
+}
+
+.bg-monaco-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1520px -1467px;
+}
+
+.bg-mongolia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1545px;
+}
+
+.bg-montenegro-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -833px;
+}
+
+.bg-montserrat-country,
+.bg-montserrat {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1545px;
+}
+
+.bg-morocco-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1545px;
+}
+
+.bg-mozambique-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1593px;
+}
+
+.bg-myanmar-country,
+.bg-myanmar {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1593px;
+}
+
+.bg-namibia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1593px;
+}
+
+.bg-nauru-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1641px;
+}
+
+.bg-nepal-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1641px;
+}
+
+.bg-netherlands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1641px;
+}
+
+.bg-netherlands_antilles-country,
+.bg-netherlandsantilles {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1689px;
+}
+
+.bg-new_caledonia-country,
+.bg-newcaledonia {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1689px;
+}
+
+.bg-new_zealand-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1689px;
+}
+
+.bg-nicaragua-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1737px;
+}
+
+.bg-niger-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1737px;
+}
+
+.bg-nigeria-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1737px;
+}
+
+.bg-niue-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2141px -1785px;
+}
+
+.bg-niue_island-country,
+.bg-niueisland {
+	width: 323px;
+	height: 130px;
+	background: url('country-flag.png') -2327px -2143px;
+}
+
+.bg-no-country {
+	width: 27px;
+	height: 27px;
+	background: url('country-flag.png') -1521px -525px;
+}
+
+.bg-norfolk_island-country,
+.bg-norfolkisland {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2193px -1785px;
+}
+
+.bg-northern_mariana_islands-country,
+.bg-northernmarianaislands {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2245px -1785px;
+}
+
+.bg-north_korea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1522px -1834px;
+}
+
+.bg-norway-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1574px -1834px;
+}
+
+.bg-oman-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1626px -1834px;
+}
+
+.bg-pakistan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1678px -1834px;
+}
+
+.bg-palau-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1730px -1834px;
+}
+
+.bg-palestine-country,
+.bg-palestine {
+	width: 35px;
+	height: 28px;
+	background: url(/assets/img/palestine.png) no-repeat center;
+}
+
+.bg-panama-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1782px -1834px;
+}
+
+.bg-papua_new_guinea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1834px -1834px;
+}
+
+.bg-paraguay-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1886px -1834px;
+}
+
+.bg-peru-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1938px -1834px;
+}
+
+.bg-philippines-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1990px -1834px;
+}
+
+.bg-pitcairn_islands-country,
+.bg-pitcairnislands {
+	width: 736px;
+	height: 368px;
+	background: url('country-flag.png') -766px -1545px;
+}
+
+.bg-poland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2042px -1834px;
+}
+
+.bg-portugal-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2094px -1834px;
+}
+
+.bg-puerto_rico-country,
+.bg-puertorico {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2146px -1834px;
+}
+
+.bg-qatar-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2198px -1834px;
+}
+
+.bg-reunion-country,
+.bg-reunion {
+	width: 571px;
+	height: 234px;
+	background: url('country-flag.png') -461px -1933px;
+}
+
+.bg-romania-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2250px -1834px;
+}
+
+.bg-russia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1522px -1882px;
+}
+
+.bg-rwanda-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1574px -1882px;
+}
+
+.bg-saint_kitts_and_nevis-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1626px -1882px;
+}
+
+.bg-saint_lucia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1678px -1882px;
+}
+
+.bg-saint_maarten-country,
+.bg-saintmaarten  {
+	width: 30px;
+	height: 30px;
+	background: url('country-flag.png') -686px -6px;
+	background-size: 130px 218px;
+}
+
+.bg-saint_vincent_and_the_grenadines-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1730px -1882px;
+}
+
+.bg-samoa-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1782px -1882px;
+}
+
+.bg-san_marino-country,
+.bg-sanmarino {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1834px -1882px;
+}
+
+.bg-sao_tome_and_principe-country,
+.bg-saotomeandprincipe {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1886px -1882px;
+}
+
+.bg-saudi_arabia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1938px -1882px;
+}
+
+.bg-scotland-country,
+.bg-scotland {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1990px -1882px;
+}
+
+.bg-senegal-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2042px -1882px;
+}
+
+.bg-serbia_and_montenegro-country, .bg-serbiaandmontenegro {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -833px;
+}
+
+.bg-seychelles-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2094px -1882px;
+}
+
+.bg-sierra_leone-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2146px -1882px;
+}
+
+.bg-singapore-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2198px -1882px;
+}
+
+.bg-slovakia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2250px -1882px;
+}
+
+.bg-slovenia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1276px -1933px;
+}
+
+.bg-solomon_islands-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1328px -1933px;
+}
+
+.bg-somalia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1380px -1933px;
+}
+
+.bg-south_africa-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1432px -1933px;
+}
+
+.bg-south_korea-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1484px -1933px;
+}
+
+.bg-spain-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1536px -1933px;
+}
+
+.bg-sri_lanka-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1588px -1933px;
+}
+
+.bg-sudan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1640px -1933px;
+}
+
+.bg-suriname-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1692px -1933px;
+}
+
+.bg-svalbard_and_jan_mayen_islands-country,
+.bg-svalbardandjanmayenislands {
+	width: 390px;
+	height: 265px;
+	background: url('country-flag.png') -2327px -840px;
+}
+
+.bg-swaziland-country,
+.bg-swaziland {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1744px -1933px;
+}
+
+.bg-sweden-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1796px -1933px;
+}
+
+.bg-switzerland-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1848px -1933px;
+}
+
+.bg-syria-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -151px;
+}
+
+.bg-taiwan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1900px -1933px;
+}
+
+.bg-tajikistan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1952px -1933px;
+}
+
+.bg-tanzania-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2004px -1933px;
+}
+
+.bg-tanzania_united_republic_of-country,
+.bg-tanzaniaunitedrepublicof {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2056px -1933px;
+}
+.bg-thailand-country,
+.bg-thailanddirectory-country,
+.bg-thailandactiveexporterdirectory-country,
+.bg-thailandactiveimporterdirectory-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2108px -1933px;
+}
+
+.bg-togo-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2160px -1933px;
+}
+
+.bg-tonga-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2212px -1933px;
+}
+
+.bg-trinidad_and_tobago-country,
+.bg-trinidadandtobago {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2264px -1933px;
+}
+
+.bg-tunisia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1276px -1981px;
+}
+
+.bg-turkey-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1328px -1981px;
+}
+
+.bg-turkmenistan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1380px -1981px;
+}
+
+.bg-turks_and_cacos_islands-country,
+.bg-turksandcacosislands {
+	width: 735px;
+	height: 490px;
+	background: url('country-flag.png') -765px -1035px;
+}
+
+.bg-tuvalu-country,
+.bg-tuvalu {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1432px -1981px;
+}
+
+.bg-uganda-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1484px -1981px;
+}
+
+.bg-ukraine-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1536px -1981px;
+}
+
+.bg-united_arab_emirates-country, .bg-unitedarabemirates {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1588px -1981px;
+}
+
+.bg-united_kingdom-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1640px -1981px;
+}
+
+.bg-united_states-country, .bg-unitedstates, .bg-unitedstatesofamerica {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1692px -1981px;
+}
+
+.bg-united_states_minor_outlaying_islands-country,
+.bg-unitedstatesminoroutlayingislands {
+	width: 786px;
+	height: 495px;
+	background: url('country-flag.png') -10px -10px;
+}
+
+.bg-uruguay-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1744px -1981px;
+}
+
+.bg-uzbekistan-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1796px -1981px;
+}
+
+.bg-vanuatu-country,
+.bg-vanuatu {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1848px -1981px;
+}
+
+.bg-vatican_city_state_holy_see-country,
+.bg-vaticancitystateholysee {
+	width: 644px;
+	height: 466px;
+	background: url('country-flag.png') -1572px -467px;
+}
+
+.bg-venezuela-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1900px -1981px;
+}
+
+.bg-vietnam-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -1952px -1981px;
+}
+
+.bg-wallis_and_futuna_islands-country,
+.bg-wallisandfutunaislands {
+	width: 736px;
+	height: 490px;
+	background: url('country-flag.png') -10px -525px;
+}
+
+.bg-western_sahara-country,
+.bg-westernsahara {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2004px -1981px;
+}
+
+.bg-west_indies-country,
+.bg-westindies {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2056px -1981px;
+}
+
+.bg-yemen-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2108px -1981px;
+}
+
+.bg-yufoslavia-country,
+.bg-yufoslavia {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2160px -1981px;
+}
+
+.bg-zaire-country,
+.bg-zaire {
+	width: 302px;
+	height: 282px;
+	background: url('country-flag.png') -2327px -1382px;
+}
+
+.bg-zambia-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2212px -1981px;
+}
+
+.bg-zimbabwe-country {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2264px -1981px;
+}
+
+.bg-kosovo-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -760px -790px;
+}
+.bg-jersey-country,
+.bg-jersey {
+	width: 30px;
+	height: 28px;
+	background: url(/assets/img/jersey.png) no-repeat center;
+}
+
+.bg-chile-country {
+	width: 50px;
+	height: 28px;
+	background: url('sprite.png') -157px -649px;
+}
+
+.bg-barbuda-country,
+.bg-barbuda {
+	width: 32px;
+	height: 28px;
+	background: url('country-flag.png') -2737px -1032px;
+}
+
+.bg-easter_island-country,
+.bg-easterisland {
+	width: 32px;
+	height: 28px;
+	background: url(/assets/img/easter-islands.png) no-repeat center;
+}
+.bg-maco_islands-country,
+.bg-macoislands {
+	width: 32px;
+	height: 30px;
+	background: url(/assets/img/maco-island.png) no-repeat center;
+}
+
+.bg-serbia-country {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -571px -833px;
+}
+
+.bg-south_sudan-country,
+.bg-southsudan {
+	width: 36px;
+	height: 28px;
+	background: url('sprite.png') -903px -31px;
+}
+
+.bg-tokelau_island-country,
+.bg-tokelauisland {
+	width: 32px;
+	height: 30px;
+	background: url(/assets/img/tokelau-island.png) no-repeat center;
+}
+
+.bg-chatham_island_new_zealand-country,
+.bg-chathamislandnewzealand {
+	width: 32px;
+	height: 30px;
+	background: url(/assets/img/chatham-island.png) no-repeat center;
+}
+.bg-british_virgin_islands-country,
+.bg-britishvirginislands {
+	width: 32px;
+	height: 30px;
+	background: url(/assets/img/british-virgin-islands.png) no-repeat center;
+}
+ .bg-faeroeislands-country {
+ 	width: 32px;
+ 	height: 21px;
+ 	background: url(/assets/img/faeroeislands.png) no-repeat center;
+ }
+ .bg-globalbl,
+ .bg-silkroute,
+ .bg-globalbl-country,
+ .bg-globaldirectory-country,
+ .bg-globaldirectory,
+ .bg-silkroute-country{
+	width: 50px;
+ 	height: 45px;
+ 	background: url(/assets/img/globalbl.png) no-repeat center;
+ 	background-size: 50px 45px;
+ }

@@ -1,0 +1,284 @@
+.bg-align_justify {
+    width: 20px; height: 10px;
+    background: url('css_sprites.png') -107px -255px;
+}
+
+.bg-align_justify2 {
+    width: 40px; height: 20px;
+    background: url('css_sprites.png') -408px -219px;
+}
+
+.bg-business_and_trade {
+    width: 25px; height: 25px;
+    background: url('css_sprites.png') -212px -267px;
+}
+
+.bg-business_and_trade2 {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -354px -163px;
+}
+
+.bg-chat {
+    width: 69px; height: 69px;
+    background: url('css_sprites.png') -283px -1px;
+}
+
+.bg-chat1 {
+    width: 35px; height: 35px;
+    background: url('css_sprites.png') -408px -95px;
+}
+
+.bg-chat3 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -102px -313px;
+}
+
+.bg-download2 {
+    width: 74px; height: 60px;
+    background: url('css_sprites.png') -205px -189px;
+}
+
+.bg-folder {
+    width: 30px; height: 24px;
+    background: url('css_sprites.png') -408px -271px;
+}
+
+.bg-folder2 {
+    width: 59px; height: 48px;
+    background: url('css_sprites.png') -283px -189px;
+}
+
+.bg-Group_1 {
+    width: 26px; height: 24px;
+    background: url('css_sprites.png') -239px -267px;
+}
+
+.bg-Group_2 {
+    width: 51px; height: 48px;
+    background: url('css_sprites.png') -1px -313px;
+}
+
+.bg-Group_3652 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -150px -313px;
+}
+
+.bg-Group_3652_1 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -198px -313px;
+}
+
+.bg-Group_3652_2 {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -1px -1px;
+}
+
+.bg-Group_3941 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -246px -313px;
+}
+.bg-Group_3941_0 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -198px -313px;
+}
+.bg-Group_3941_1 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -294px -313px;
+}
+
+.bg-Group_3941_2 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -342px -313px;
+}
+
+.bg-Group_3941_12 {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -95px -1px;
+}
+
+.bg-Group_3941_22 {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -1px -95px;
+}
+
+.bg-Group_3976 {
+    width: 46px; height: 46px;
+    background: url('css_sprites.png') -408px -1px;
+}
+
+.bg-Group_4292 {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -408px -297px;
+}
+
+.bg-Group_4309 {
+    width: 38px; height: 22px;
+    background: url('css_sprites.png') -408px -164px;
+}
+
+.bg-Group_36522 {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -95px -95px;
+}
+
+.bg-Group_39412x {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -189px -1px;
+}
+
+.bg-Group_39762x {
+    width: 92px; height: 92px;
+    background: url('css_sprites.png') -189px -95px;
+}
+
+.bg-Group_42922x {
+    width: 52px; height: 52px;
+    background: url('css_sprites.png') -354px -1px;
+}
+
+.bg-Group_43092x {
+    width: 76px; height: 44px;
+    background: url('css_sprites.png') -1px -267px;
+}
+
+.bg-Headphones_support {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -408px -325px;
+}
+
+.bg-Headphones_support2x {
+    width: 52px; height: 52px;
+    background: url('css_sprites.png') -354px -55px;
+}
+
+.bg-Headphones_support_selected {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -283px -239px;
+}
+
+.bg-Path_1935 {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -311px -239px;
+}
+
+.bg-Path_2004 {
+    width: 26px; height: 25px;
+    background: url('css_sprites.png') -184px -267px;
+}
+
+.bg-Path_19352x {
+    width: 52px; height: 52px;
+    background: url('css_sprites.png') -354px -109px;
+}
+
+.bg-Path_20042x {
+    width: 51px; height: 49px;
+    background: url('css_sprites.png') -354px -215px;
+}
+
+.bg-play_button__2_ {
+    width: 9px; height: 7px;
+    background: url('css_sprites.png') -445px -95px;
+}
+
+.bg-play_button__2__1 {
+    width: 9px; height: 7px;
+    background: url('css_sprites.png') -445px -104px;
+}
+
+.bg-play_button__2__12x {
+    width: 17px; height: 13px;
+    background: url('css_sprites.png') -436px -297px;
+}
+
+.bg-play_button__2_x {
+    width: 17px; height: 13px;
+    background: url('css_sprites.png') -436px -325px;
+}
+
+.bg-Remote_Support {
+    width: 52px; height: 38px;
+    background: url('css_sprites.png') -354px -266px;
+}
+
+.bg-Remote_Support_1 {
+    width: 48px; height: 32px;
+    background: url('css_sprites.png') -134px -267px;
+}
+
+.bg-Remote_Support2x {
+    width: 104px; height: 76px;
+    background: url('css_sprites.png') -1px -189px;
+}
+
+.bg-Remote_Support_12x {
+    width: 96px; height: 64px;
+    background: url('css_sprites.png') -107px -189px;
+}
+
+.bg-search {
+    width: 28px; height: 29px;
+    background: url('css_sprites.png') -408px -188px;
+}
+
+.bg-search_1 {
+    width: 22px; height: 22px;
+    background: url('css_sprites.png') -292px -267px;
+}
+
+.bg-search2x {
+    width: 55px; height: 57px;
+    background: url('css_sprites.png') -283px -130px;
+}
+
+.bg-search_12x {
+    width: 43px; height: 44px;
+    background: url('css_sprites.png') -408px -49px;
+}
+
+.bg-surface1 {
+    width: 23px; height: 24px;
+    background: url('css_sprites.png') -267px -267px;
+}
+
+.bg-surface12x {
+    width: 46px; height: 47px;
+    background: url('css_sprites.png') -54px -313px;
+}
+
+.bg-user_silhouette {
+    width: 28px; height: 28px;
+    background: url('css_sprites.png') -408px -241px;
+}
+
+.bg-user_silhouette2x {
+    width: 56px; height: 56px;
+    background: url('css_sprites.png') -283px -72px;
+}
+
+.bg-video_camera {
+    width: 27px; height: 17px;
+    background: url('css_sprites.png') -316px -267px;
+}
+
+.bg-video_camera2x {
+    width: 53px; height: 34px;
+    background: url('css_sprites.png') -79px -267px;
+}
+.bg-volza_apis {
+    display: inline-block;
+    width: 27px;
+    height: 17px;
+    position: relative;
+    vertical-align: middle;
+}
+.bg-volza_apis::before {
+    content: "</>";
+    font-family: monospace;
+    font-size: 22px;
+    color: #7f7f7f;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

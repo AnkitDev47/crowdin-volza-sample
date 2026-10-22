@@ -1,0 +1,9 @@
+# Crowdin CLI / GitHub integration config.
+# Set CROWDIN_PROJECT_ID and CROWDIN_PERSONAL_TOKEN in your environment (never commit the token).
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_PERSONAL_TOKEN
+preserve_hierarchy: true
+
+files:
+  - source: /src/locales/en.json
+    translation: /src/locales/%two_letters_code%.json

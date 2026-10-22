@@ -1,0 +1,24 @@
+{
+  "name": "volza-crowdin-sample",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "crowdin:upload": "crowdin upload sources",
+    "crowdin:download": "crowdin download"
+  },
+  "dependencies": {
+    "i18next": "^23.16.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^14.1.3",
+    "react-router-dom": "^5.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.4"
+  }
+}

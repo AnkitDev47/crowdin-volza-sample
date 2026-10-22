@@ -1,0 +1,278 @@
+/* /myprofile on phones and tablets (< 992px). Desktop is untouched. */
+@media (max-width: 991px) {
+	/* Tabs (My Profile / My Team / SFTP Credentials): 44px tall */
+	.user-profile > .rc-tabs > .rc-tabs-bar .rc-tabs-tab {
+		display: inline-flex !important;
+		align-items: center;
+		min-height: 44px;
+	}
+
+	/* Profile fields: 14px labels, 44px inputs with 16px text */
+	.user-profile .user-profile-details {
+		width: 100% !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	.user-profile .user-profile-details label,
+	.user-profile .user-profile-details .input-group label,
+	.user-profile .user-profile-details .custom-userinput label,
+	.user-profile .user-profile-details .input-group div input ~ label,
+	.user-profile .user-profile-details .input-group div input:focus ~ label,
+	.user-profile .user-profile-details .input-group div input:valid ~ label,
+	.user-profile .user-profile-details .input-group div input:disabled ~ label {
+		font-size: 14px !important; /* also beats the floating-label rules that shrink it to 12px */
+	}
+
+	.user-profile .user-profile-details input,
+	.user-profile .user-profile-details .react-tel-input .form-control,
+	.user-profile .user-profile-details .react-tel-input .selected-flag {
+		min-height: 44px;
+		font-size: 16px !important;
+	}
+
+	.user-profile .user-profile-details .react-tel-input .selected-flag {
+		min-width: 44px;
+	}
+
+	/* Mobile: number and "Verify your number" (+ edit pencil) on one line; the number takes the spare width */
+	.user-profile .custom-userinput {
+		display: flex;
+		flex-wrap: nowrap !important;
+		align-items: flex-end;
+		gap: 8px;
+	}
+
+	.user-profile .custom-userinput > div:first-child {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.user-profile .custom-userinput .react-tel-input,
+	.user-profile .custom-userinput .react-tel-input .form-control {
+		width: 100% !important;
+		min-width: 0;
+	}
+
+	.user-profile .custom-userinput > .user-profile-btn {
+		position: static !important;
+		flex: 0 1 auto;
+		display: flex;
+		align-items: center;
+		gap: 6px;
+		width: auto !important;
+		max-width: 38%;
+		margin: 0 !important;
+	}
+
+	.user-profile .custom-userinput .react-tel-input .form-control {
+		padding-right: 4px !important;
+	}
+
+	.user-profile .custom-userinput > .user-profile-btn > .btn {
+		margin: 0 !important;
+		padding: 4px 8px !important;
+		font-size: 14px !important;
+		line-height: 1.2;
+	}
+
+	.user-profile .user-profile-details .btn,
+	.user-profile .user-profile-details button {
+		min-height: 44px;
+		max-width: 100%;
+		white-space: normal;
+	}
+
+	.user-profile .input-group {
+		display: flex;
+		flex-wrap: wrap;
+		width: 100%;
+	}
+
+	/* Company name and "Login with Different Company" on one line (button wraps its text if needed) */
+	.user-profile .input-group:has(> .company-login-btn) {
+		flex-wrap: nowrap !important;
+		align-items: center;
+		gap: 8px;
+	}
+
+	.user-profile .input-group:has(> .company-login-btn) > input {
+		flex: 1 1 auto;
+		min-width: 0;
+		width: auto !important;
+	}
+
+	.user-profile .input-group > .company-login-btn {
+		position: static !important;
+		flex: 0 1 auto;
+		max-width: 40%;
+		margin: 0 !important;
+		padding: 4px 8px !important;
+		font-size: 14px !important;
+		line-height: 1.2;
+		white-space: normal;
+	}
+
+	/* My Balance / Team Activities tiles: two per row */
+	.user-profile .my-bal-box,
+	.user-profile .my-act-box {
+		flex: 1 1 calc(50% - 8px);
+		min-width: 0;
+		margin: 0 !important;
+	}
+
+	.user-profile .user-pro-my-bal .display-flex,
+	.user-profile .my-act-box:first-child,
+	.user-profile .display-flex:has(> .my-act-box) {
+		flex-wrap: wrap;
+		gap: 8px;
+	}
+
+	.user-profile .my-act-box:empty {
+		display: none;
+	}
+
+	.user-profile .my-bal-box-title span,
+	.user-profile .my-act-box-title a {
+		overflow-wrap: anywhere;
+	}
+
+	/* Team Activities user filter (antd select) */
+	.user-profile .ant-select-selector {
+		min-height: 44px !important;
+		align-items: center;
+	}
+
+	.user-profile .ant-select-selection-placeholder,
+	.user-profile .ant-select-selection-item {
+		font-size: 14px !important;
+	}
+
+	/* Current Subscriptions card list: pagination controls */
+	.user-profile .curr-sub .-pagination select {
+		min-height: 44px;
+		font-size: 16px !important;
+	}
+
+	.user-profile .curr-sub .-loading-inner {
+		font-size: 14px !important;
+	}
+
+	/* Team Activities: native user select on mobile */
+	.user-profile .team-activity-user-select {
+		min-height: 44px;
+		font-size: 16px !important;
+	}
+
+	/* Renewal countdown: the red text fails contrast on the card background */
+	.user-profile .renewalTimer {
+		color: #b30000 !important;
+	}
+
+	/* My Profile fields (User Name, Mobile, Email…): every row full width, so the dividers line up and the edit
+	   pencil sits at the right edge, vertically centred on its row */
+	.user-profile .user-profile-details.col-md-6 {
+		float: none;
+		width: 100% !important;
+		padding-right: 0 !important;
+	}
+
+	.user-profile .user-profile-details hr,
+	.user-profile .user-profile-details .input-group {
+		width: 100% !important;
+		max-width: 100%;
+	}
+
+	/* editable fields (User Name, Designation): the input's underline is the row divider; it stopped at 217px */
+	.user-profile .user-profile-details .input-group > div:has(> input) {
+		flex: 1 1 auto;
+		min-width: 0;
+	}
+
+	.user-profile .user-profile-details .input-group > div > input {
+		width: 100% !important;
+	}
+
+	/* My Balance / Team Activities tiles: equal-height grid; boxes grow with their text (fixed heights let
+	   "Annual Download Balance Points" spill out), content centred */
+	.user-profile .user-pro-my-bal .display-flex:has(> .my-bal-box),
+	.user-profile .display-flex:has(> .my-act-box) {
+		display: grid !important;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 8px;
+	}
+
+	.user-profile .my-bal-box,
+	.user-profile .my-act-box {
+		display: flex !important;
+		flex-direction: column;
+		align-items: center;
+		justify-content: flex-start;
+		gap: 6px;
+		width: auto !important; /* desktop sets a percentage width: 33px inside a grid cell */
+		height: auto !important;
+		min-height: 0 !important;
+		padding: 12px 8px !important;
+		text-align: center;
+	}
+
+	.user-profile .my-bal-box-title,
+	.user-profile .my-bal-box-sub-title,
+	.user-profile .my-act-box-title {
+		height: auto !important;
+		margin: 0 !important;
+		line-height: 1.3 !important;
+		overflow-wrap: anywhere;
+	}
+
+	/* Current Subscriptions pager: ← page / rows → on one line */
+	.user-profile .curr-sub .-pagination {
+		display: flex !important;
+		flex-wrap: nowrap !important;
+		align-items: center;
+		justify-content: center;
+		gap: 12px;
+		width: 100% !important;
+		height: auto !important;
+	}
+
+	.user-profile .curr-sub .-pagination > .-previous,
+	.user-profile .curr-sub .-pagination > .-next {
+		flex: 0 0 auto;
+		width: auto !important;
+		height: auto !important;
+	}
+
+	.user-profile .curr-sub .-pagination > .-center {
+		flex: 0 1 auto;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 4px 8px;
+		height: auto !important;
+	}
+
+	/* Current Subscriptions card, Action: Upgrade and Renew side by side; a third button (Cancel Recurring
+	   Subscription) wraps below instead of pushing the page sideways (QA #75647 round 2 #18) */
+	.user-profile .curr-sub .rt-td > div:has(> .edit_column_btn) {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		gap: 8px;
+	}
+
+	.user-profile .curr-sub .rt-td .edit_column_btn {
+		flex: 0 1 auto;
+		margin: 0 !important;
+		padding: 0 10px !important;
+		white-space: nowrap;
+	}
+}
+
+/* My Activity boxes (login count, searches...): the wrapping Bootstrap .row kept its -13px side margins and stuck
+   out of the tab pane, giving the page 9px of sideways scroll */
+@media (max-width: 991px) {
+	.row:has(> .col-md-12.mrtb-1.margin-bottom-0) {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+}
