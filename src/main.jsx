@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, NavLink, Redirect, Route, Switch } from 'react-router-dom';
-import './i18n';
+import { i18nReady } from './i18n';
 import LanguageSelector from './LanguageSelector';
 import Welcome from './pages/Welcome';
 import MyAccount from './pages/MyAccount';
@@ -16,7 +16,8 @@ import './css/mobile/Home.css';
 import './css/mobile/MyProfile.css';
 import './app.css';
 
-ReactDOM.render(
+// Render after the first language arrives from the API, so the page never flashes raw keys.
+i18nReady.finally(() => ReactDOM.render(
 	<BrowserRouter>
 		<header className="sample-header">
 			<img src="/assets/img/logo-blue.png" alt="Volza" height="32" />
@@ -35,4 +36,4 @@ ReactDOM.render(
 		</main>
 	</BrowserRouter>,
 	document.getElementById('root')
-);
+));

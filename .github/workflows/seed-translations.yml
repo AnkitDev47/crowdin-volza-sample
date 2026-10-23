@@ -1,0 +1,38 @@
+name: Seed translations to DB
+
+# Runs when locale files land on main: the English source push, and the merge of the
+# Crowdin PR (l10n_crowdin_ai_translations) that brings the translated <code>.json files.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/locales/*.json'
+      - 'backend/TranslationApi/**'
+      - '.github/workflows/seed-translations.yml'
+
+  workflow_dispatch:
+
+concurrency:
+  group: seed-translations
+  cancel-in-progress: false
+
+jobs:
+  seed:
+    name: Upsert locales into SQL Server
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Seed every locale file
+        run: dotnet run --project backend/TranslationApi -- seed "$GITHUB_WORKSPACE/src/locales"
+        env:
+          ConnectionStrings__CslaExConnection: ${{ secrets.TRANSLATION_DB_CONNECTION }}
