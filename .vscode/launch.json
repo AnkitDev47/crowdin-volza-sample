@@ -1,0 +1,29 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "TranslationApi",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build TranslationApi",
+			"program": "${workspaceFolder}/backend/TranslationApi/bin/Debug/net8.0/TranslationApi.dll",
+			"cwd": "${workspaceFolder}/backend/TranslationApi",
+			"env": {
+				"ASPNETCORE_ENVIRONMENT": "Development",
+				"ASPNETCORE_URLS": "http://localhost:5000"
+			},
+			"console": "integratedTerminal"
+		},
+		{
+			"name": "Seed translations",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build TranslationApi",
+			"program": "${workspaceFolder}/backend/TranslationApi/bin/Debug/net8.0/TranslationApi.dll",
+			"args": ["seed", "${workspaceFolder}/src/locales"],
+			"cwd": "${workspaceFolder}/backend/TranslationApi",
+			"env": { "ASPNETCORE_ENVIRONMENT": "Development" },
+			"console": "integratedTerminal"
+		}
+	]
+}

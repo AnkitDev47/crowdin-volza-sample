@@ -10,16 +10,33 @@ The i18n setup is copied from branch `frontend/feature/multilingual-app`: i18nex
 
 ## Run
 
-```bash
-npm install
-npm start          # http://localhost:3000
-```
+Translations are served from SQL Server by `backend/TranslationApi` (.NET 8). The frontend fetches them from there.
+
+1. Put your DB connection string in `backend/TranslationApi/appsettings.Development.json` (gitignored, never commit it):
+   ```json
+   { "ConnectionStrings": { "CslaExConnection": "Database=...;Server=...;User=...;Password=...;Enlist=false;" } }
+   ```
+2. Seed the DB from `src/locales/*.json` (creates `IIPL_Translation` on first run; re-run after any locale change):
+   ```bash
+   dotnet run --project backend/TranslationApi -- seed "$PWD/src/locales"
+   ```
+3. Start the API (http://localhost:5000):
+   ```bash
+   dotnet run --project backend/TranslationApi
+   ```
+4. Start the frontend in another terminal (http://localhost:3000). Vite proxies `/controllers` to the API:
+   ```bash
+   npm install
+   npm start
+   ```
+
+On `main`, `.github/workflows/seed-translations.yml` re-seeds automatically when locale files change (needs the `TRANSLATION_DB_CONNECTION` secret).
 
 ## How translations work
 
 - `src/locales/en.json` is the **source file** that Crowdin reads.
 - Crowdin writes `src/locales/<code>.json` (for example `hi.json`, `es.json`).
-- Any JSON file in `src/locales/` shows up in the language switcher automatically (`import.meta.glob` in `src/i18n.js`), so no code change is needed when you add a language.
+- Any JSON file in `src/locales/` is seeded into the DB and shows up in the language switcher automatically, so no code change is needed when you add a language.
 - `hi.json` is a starter file so the switcher works before Crowdin is connected. Crowdin overwrites it.
 
 ## Connect Crowdin
